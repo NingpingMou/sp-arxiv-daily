@@ -101,8 +101,10 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     for result in search_engine.results():
         
-        if result.title.find(query) == -1:
-            continue
+        if (result.title.find("multimodal") == -1) and (result.title.find("vision-language") == -1):
+            if (result.title.find("adversarial") == -1) and (result.title.find("attack") == -1) and (result.title.find("defend") == -1) and (result.title.find("defense") == -1) and (result.title.find("robust") == -1):
+                if result.title.find("jailbreak") == -1:
+                    continue
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
