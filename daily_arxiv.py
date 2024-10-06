@@ -107,7 +107,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         if topic == "Multimodal security and privacy":
             if (result.title.find("adversarial") == -1) and (result.title.find("attack") == -1) and (result.title.find("defend") == -1) and (result.title.find("defense") == -1) and (result.title.find("robust") == -1):
                 if (result.title.find("backdoor") == -1) and (result.title.find("poison") == -1) and (result.title.find("hijack") == -1) and (result.title.find("trojan") == -1):
-                    if (result.title.find("privacy") == -1) and (result.title.find("membership") == -1) and (result.title.find("propery inference") == -1) and (result.title.find("stealing") == -1) and (result.title.find("inversion") == -1) and (result.title.find("model extraction") == -1):
+                    if (result.title.find("privacy") == -1) and (result.title.find("membership") == -1) and (result.title.find("propery inference") == -1) and (result.title.find("stealing") == -1) and (result.title.find("model inversion") == -1) and (result.title.find("model extraction") == -1):
                         continue
         
         # jailbreak，粗粒度是jailbreak；细粒度则限制在LLM、multimodal等，不能搞成非计算机的
