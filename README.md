@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.05
+## Updated on 2024.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-09-23**|**Examining the physical and psychological effects of combining multimodal feedback with continuous control in prosthetic hands**|Digby Chappell et.al.|[2409.15578](http://arxiv.org/abs/2409.15578)|null|
 |**2024-09-23**|**MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models**|Mohammad Shahab Sepehri et.al.|[2409.15477](http://arxiv.org/abs/2409.15477)|**[link](https://github.com/mshahabsepehri/mediconfusion)**|
 
-<p align=right>(<a href=#updated-on-20241005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
 
 ## adversarial
 
@@ -41,7 +41,7 @@
 |**2024-10-02**|**Testing the robustness of the BAO determination in the presence of massive neutrinos**|Adriana Nadal-Matosas et.al.|[2410.01897](http://arxiv.org/abs/2410.01897)|null|
 |**2024-10-02**|**Universal and robust dynamic decoupling controls for zero-field magnetometry by using molecular clock sensors**|Jiawen Jiang et.al.|[2410.01479](http://arxiv.org/abs/2410.01479)|null|
 
-<p align=right>(<a href=#updated-on-20241005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
 
 ## jailbreak
 
@@ -49,7 +49,7 @@
 |---|---|---|---|---|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 
-<p align=right>(<a href=#updated-on-20241005>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
