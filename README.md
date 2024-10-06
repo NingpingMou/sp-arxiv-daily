@@ -9,9 +9,18 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href=#multimodal-security-and-privacy>Multimodal security and privacy</a></li>
     <li><a href=#jailbreak>Jailbreak</a></li>
   </ol>
 </details>
+
+## Multimodal security and privacy
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-09-27**|**Image-guided topic modeling for interpretable privacy classification**|Alina Elena Baia et.al.|[2409.18674](http://arxiv.org/abs/2409.18674)|**[link](https://github.com/idiap/itm)**|
+
+<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
 
 ## Jailbreak
 
@@ -84,6 +93,47 @@
 |**2024-04-03**|**Learn to Disguise: Avoid Refusal Responses in LLM's Defense via a Multi-agent Attacker-Disguiser Game**|Qianqiao Xu et.al.|[2404.02532](http://arxiv.org/abs/2404.02532)|null|
 |**2024-06-18**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
 |**2024-09-24**|**Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack**|Mark Russinovich et.al.|[2404.01833](http://arxiv.org/abs/2404.01833)|null|
+|**2024-08-24**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|null|
+|**2024-07-23**|**RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content**|Zhuowen Yuan et.al.|[2403.13031](http://arxiv.org/abs/2403.13031)|**[link](https://github.com/eurekayuan/rigorllm)**|
+|**2024-07-15**|**Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**|Yunhao Gou et.al.|[2403.09572](http://arxiv.org/abs/2403.09572)|null|
+|**2024-03-02**|**AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks**|Yifan Zeng et.al.|[2403.04783](http://arxiv.org/abs/2403.04783)|**[link](https://github.com/xhmy/autodefense)**|
+|**2024-03-01**|**DrAttack: Prompt Decomposition and Reconstruction Makes Powerful LLM Jailbreakers**|Xirui Li et.al.|[2402.16914](http://arxiv.org/abs/2402.16914)|**[link](https://github.com/xirui-li/drattack)**|
+|**2024-06-06**|**Defending LLMs against Jailbreaking Attacks via Backtranslation**|Yihan Wang et.al.|[2402.16459](http://arxiv.org/abs/2402.16459)|**[link](https://github.com/yihanwang617/llm-jailbreaking-defense)**|
+|**2024-06-04**|**ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings**|Hao Wang et.al.|[2402.16006](http://arxiv.org/abs/2402.16006)|null|
+|**2024-03-04**|**LLMs Can Defend Themselves Against Jailbreaking in a Practical Manner: A Vision Paper**|Daoyuan Wu et.al.|[2402.15727](http://arxiv.org/abs/2402.15727)|null|
+|**2024-03-15**|**How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries**|Somnath Banerjee et.al.|[2402.15302](http://arxiv.org/abs/2402.15302)|**[link](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA)**|
+|**2024-02-27**|**Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts Against Open-source LLMs**|Xiaoxia Li et.al.|[2402.14872](http://arxiv.org/abs/2402.14872)|null|
+|**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|**[link](https://github.com/jonasgeiping/carving)**|
+|**2024-05-29**|**GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis**|Yueqi Xie et.al.|[2402.13494](http://arxiv.org/abs/2402.13494)|**[link](https://github.com/xyq7/gradsafe)**|
+|**2024-06-07**|**ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs**|Fengqing Jiang et.al.|[2402.11753](http://arxiv.org/abs/2402.11753)|**[link](https://github.com/uw-nsl/ArtPrompt)**|
+|**2024-02-16**|**Play Guessing Game with LLM: Indirect Jailbreak Attack with Implicit Clues**|Zhiyuan Chang et.al.|[2402.09091](http://arxiv.org/abs/2402.09091)|null|
+|**2024-06-07**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679](http://arxiv.org/abs/2402.08679)|**[link](https://github.com/yu-fangxu/cold-attack)**|
+|**2024-06-03**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
+|**2024-02-08**|**Comprehensive Assessment of Jailbreak Attacks Against LLMs**|Junjie Chu et.al.|[2402.05668](http://arxiv.org/abs/2402.05668)|**[link](https://github.com/TrustAIRLab/Comprehensive_Jailbreak_Assessment)**|
+|**2024-02-08**|**Rapid Optimization for Jailbreaking LLMs via Subconscious Exploitation and Echopraxia**|Guangyu Shen et.al.|[2402.05467](http://arxiv.org/abs/2402.05467)|**[link](https://github.com/solidshen/ripple_official)**|
+|**2024-05-30**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299](http://arxiv.org/abs/2402.03299)|null|
+|**2024-07-10**|**The Ethics of Interaction: Mitigating Security Threats in LLMs**|Ashutosh Kumar et.al.|[2401.12273](http://arxiv.org/abs/2401.12273)|null|
+|**2024-04-29**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862](http://arxiv.org/abs/2401.10862)|**[link](https://github.com/crystaleye42/eval-safety)**|
+|**2024-04-29**|**Intention Analysis Makes LLMs A Good Jailbreak Defender**|Yuqi Zhang et.al.|[2401.06561](http://arxiv.org/abs/2401.06561)|**[link](https://github.com/alphadl/safellm_with_intentionanalysis)**|
+|**2024-01-23**|**How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs**|Yi Zeng et.al.|[2401.06373](http://arxiv.org/abs/2401.06373)|**[link](https://github.com/chats-lab/persuasive_jailbreaker)**|
+|**2024-06-18**|**JailGuard: A Universal Detection Framework for LLM Prompt-based Attacks**|Xiaoyu Zhang et.al.|[2312.10766](http://arxiv.org/abs/2312.10766)|null|
+|**2024-02-23**|**Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak**|Yanrui Du et.al.|[2312.04127](http://arxiv.org/abs/2312.04127)|null|
+|**2024-02-21**|**Tree of Attacks: Jailbreaking Black-Box LLMs Automatically**|Anay Mehrotra et.al.|[2312.02119](http://arxiv.org/abs/2312.02119)|**[link](https://github.com/ricommunity/tap)**|
+|**2024-03-03**|**Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition**|Sander Schulhoff et.al.|[2311.16119](http://arxiv.org/abs/2311.16119)|**[link](https://github.com/promptlabs/hackaprompt)**|
+|**2023-11-27**|**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**|Haoqin Tu et.al.|[2311.16101](http://arxiv.org/abs/2311.16101)|**[link](https://github.com/ucsc-vlaa/vllm-safety-benchmark)**|
+|**2024-05-22**|**Flames: Benchmarking Value Alignment of LLMs in Chinese**|Kexin Huang et.al.|[2311.06899](http://arxiv.org/abs/2311.06899)|**[link](https://github.com/aiflames/flames)**|
+|**2024-04-01**|**Fake Alignment: Are LLMs Really Aligned Well?**|Yixu Wang et.al.|[2311.05915](http://arxiv.org/abs/2311.05915)|**[link](https://github.com/aiflames/fake-alignment)**|
+|**2023-12-13**|**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**|Yichen Gong et.al.|[2311.05608](http://arxiv.org/abs/2311.05608)|**[link](https://github.com/thuccslab/figstep)**|
+|**2024-03-08**|**Can LLMs Follow Simple Rules?**|Norman Mu et.al.|[2311.04235](http://arxiv.org/abs/2311.04235)|**[link](https://github.com/normster/llm_rules)**|
+|**2024-03-22**|**Self-Guard: Empower the LLM to Safeguard Itself**|Zezhong Wang et.al.|[2310.15851](http://arxiv.org/abs/2310.15851)|null|
+|**2023-10-28**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860](http://arxiv.org/abs/2310.12860)|null|
+|**2023-10-10**|**Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation**|Yangsibo Huang et.al.|[2310.06987](http://arxiv.org/abs/2310.06987)|**[link](https://github.com/princeton-sysml/jailbreak_llm)**|
+|**2024-06-11**|**SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks**|Alexander Robey et.al.|[2310.03684](http://arxiv.org/abs/2310.03684)|**[link](https://github.com/arobey1/smooth-llm)**|
+|**2024-01-22**|**Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench**|Jen-tse Huang et.al.|[2310.01386](http://arxiv.org/abs/2310.01386)|**[link](https://github.com/cuhk-arise/psychobench)**|
+|**2024-06-12**|**Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM**|Bochuan Cao et.al.|[2309.14348](http://arxiv.org/abs/2309.14348)|**[link](https://github.com/AAAAAAsuka/llm_defends)**|
+|**2024-04-14**|**FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models**|Dongyu Yao et.al.|[2309.05274](http://arxiv.org/abs/2309.05274)|**[link](https://github.com/rainjamesy/fuzzllm)**|
+|**2023-07-05**|**Jailbroken: How Does LLM Safety Training Fail?**|Alexander Wei et.al.|[2307.02483](http://arxiv.org/abs/2307.02483)|null|
+|**2024-03-27**|**Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks**|Abhinav Rao et.al.|[2305.14965](http://arxiv.org/abs/2305.14965)|**[link](https://github.com/AetherPrior/TrickLLM)**|
 
 <p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
 
