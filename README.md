@@ -19,6 +19,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-27**|**Image-guided topic modeling for interpretable privacy classification**|Alina Elena Baia et.al.|[2409.18674](http://arxiv.org/abs/2409.18674)|**[link](https://github.com/idiap/itm)**|
+|**2024-09-09**|**A robust fourth-order finite-difference discretization for the strongly anisotropic transport equation in magnetized plasmas**|L. Chacon et.al.|[2409.06070](http://arxiv.org/abs/2409.06070)|null|
+|**2024-09-05**|**Sequential bi-level regularized inversion with application to hidden reaction law discovery**|Tram Thi Ngoc Nguyen et.al.|[2409.03834](http://arxiv.org/abs/2409.03834)|null|
+|**2024-09-04**|**UNC-104 transport properties are robust and independent of changes in its cargo binding**|Amir Shee et.al.|[2409.02655](http://arxiv.org/abs/2409.02655)|null|
+|**2024-08-21**|**Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices**|Leila Taghizadeh et.al.|[2408.11485](http://arxiv.org/abs/2408.11485)|null|
 
 <p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
 
