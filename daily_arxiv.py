@@ -104,14 +104,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
         # 以后如果要修改，就修改config.yaml中的keyword，来搜索大类，以及这里的细致过滤，限制到小类（二者同步）
 
         # 这是多模态的安全，粗粒度是多模态，细粒度是各种安全问题
-        if topic is "Multimodal security and privacy":
+        if topic == "Multimodal security and privacy":
             if (result.title.find("adversarial") == -1) and (result.title.find("attack") == -1) and (result.title.find("defend") == -1) and (result.title.find("defense") == -1) and (result.title.find("robust") == -1):
                 if (result.title.find("backdoor") == -1) and (result.title.find("poison") == -1) and (result.title.find("hijack") == -1) and (result.title.find("trojan") == -1):
                     if (result.title.find("privacy") == -1) and (result.title.find("membership") == -1) and (result.title.find("propery inference") == -1) and (result.title.find("stealing") == -1) and (result.title.find("inversion") == -1) and (result.title.find("model extraction") == -1):
                         continue
         
         # jailbreak，粗粒度是jailbreak；细粒度则限制在LLM、multimodal等，不能搞成非计算机的
-        if topic is "Jailbreak":
+        if topic == "Jailbreak":
             if (result.title.find("LLM") == -1) and (result.title.find("multimodal") == -1) and (result.title.find("modality") == -1) and (result.title.find("diffusion") == -1) and (result.title.find("language") == -1):
                 continue
 
