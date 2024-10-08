@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
@@ -24,7 +24,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-03**|**Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
+|**2024-10-02**|**FlipAttack: Jailbreak LLMs via Flipping**|Yue Liu et.al.|[2410.02832](http://arxiv.org/abs/2410.02832)|null|
+|**2024-10-04**|**Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 |**2024-09-23**|**Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
 |**2024-10-03**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|null|
@@ -58,7 +59,7 @@ layout: default
 |**2024-06-21**|**[WIP] Jailbreak Paradox: The Achilles' Heel of LLMs**|Abhinav Rao et.al.|[2406.12702](http://arxiv.org/abs/2406.12702)|null|
 |**2024-06-16**|**Threat Modelling and Risk Analysis for Large Language Model (LLM)-Powered Applications**|Stephen Burabari Tete et.al.|[2406.11007](http://arxiv.org/abs/2406.11007)|null|
 |**2024-06-26**|**Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis**|Yuping Lin et.al.|[2406.10794](http://arxiv.org/abs/2406.10794)|**[link](https://github.com/yuplin2333/representation-space-jailbreak)**|
-|**2024-06-13**|**Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs**|Zhao Xu et.al.|[2406.09324](http://arxiv.org/abs/2406.09324)|**[link](https://github.com/usail-hkust/bag_of_tricks_for_llm_jailbreaking)**|
+|**2024-10-04**|**Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs**|Zhao Xu et.al.|[2406.09324](http://arxiv.org/abs/2406.09324)|**[link](https://github.com/usail-hkust/bag_of_tricks_for_llm_jailbreaking)**|
 |**2024-07-19**|**Exploiting Uncommon Text-Encoded Structures for Automated Jailbreaks in LLMs**|Bangxin Li et.al.|[2406.08754](http://arxiv.org/abs/2406.08754)|null|
 |**2024-06-13**|**RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack against LLMs**|Xuan Chen et.al.|[2406.08725](http://arxiv.org/abs/2406.08725)|null|
 |**2024-06-13**|**When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search**|Xuan Chen et.al.|[2406.08705](http://arxiv.org/abs/2406.08705)|null|
