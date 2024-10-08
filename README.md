@@ -30,6 +30,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-05**|**Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks**|Zi Wang et.al.|[2410.04234](http://arxiv.org/abs/2410.04234)|null|
 |**2024-10-02**|**FlipAttack: Jailbreak LLMs via Flipping**|Yue Liu et.al.|[2410.02832](http://arxiv.org/abs/2410.02832)|null|
 |**2024-10-04**|**Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
@@ -80,7 +81,7 @@
 |**2024-05-30**|**Efficient LLM-Jailbreaking by Introducing Visual Modality**|Zhenxing Niu et.al.|[2405.20015](http://arxiv.org/abs/2405.20015)|null|
 |**2024-05-24**|**Hacc-Man: An Arcade Game for Jailbreaking LLMs**|Matheus Valentim et.al.|[2405.15902](http://arxiv.org/abs/2405.15902)|null|
 |**2024-05-23**|**Extracting Prompts by Inverting LLM Outputs**|Collin Zhang et.al.|[2405.15012](http://arxiv.org/abs/2405.15012)|**[link](https://github.com/collinzrj/output2prompt)**|
-|**2024-05-23**|**Representation noising effectively prevents harmful fine-tuning on LLMs**|Domenic Rosati et.al.|[2405.14577](http://arxiv.org/abs/2405.14577)|null|
+|**2024-10-07**|**Representation noising effectively prevents harmful fine-tuning on LLMs**|Domenic Rosati et.al.|[2405.14577](http://arxiv.org/abs/2405.14577)|null|
 |**2024-05-22**|**WordGame: Efficient & Effective LLM Jailbreak via Simultaneous Obfuscation in Query and Response**|Tianrong Zhang et.al.|[2405.14023](http://arxiv.org/abs/2405.14023)|null|
 |**2024-06-19**|**Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation**|Yuxi Li et.al.|[2405.13068](http://arxiv.org/abs/2405.13068)|**[link](https://github.com/llm-integrity-guard/jailmine)**|
 |**2024-05-15**|**Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization**|Kai Hu et.al.|[2405.09113](http://arxiv.org/abs/2405.09113)|null|
@@ -96,7 +97,7 @@
 |**2024-05-02**|**AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs**|Zeyi Liao et.al.|[2404.07921](http://arxiv.org/abs/2404.07921)|**[link](https://github.com/osu-nlp-group/amplegcg)**|
 |**2024-09-09**|**Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes**|Divyanshu Kumar et.al.|[2404.04392](http://arxiv.org/abs/2404.04392)|null|
 |**2024-04-03**|**Learn to Disguise: Avoid Refusal Responses in LLM's Defense via a Multi-agent Attacker-Disguiser Game**|Qianqiao Xu et.al.|[2404.02532](http://arxiv.org/abs/2404.02532)|null|
-|**2024-06-18**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
+|**2024-10-07**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
 |**2024-09-24**|**Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack**|Mark Russinovich et.al.|[2404.01833](http://arxiv.org/abs/2404.01833)|null|
 |**2024-08-24**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|null|
 |**2024-07-23**|**RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content**|Zhuowen Yuan et.al.|[2403.13031](http://arxiv.org/abs/2403.13031)|**[link](https://github.com/eurekayuan/rigorllm)**|
