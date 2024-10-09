@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.08
+## Updated on 2024.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-09-04**|**UNC-104 transport properties are robust and independent of changes in its cargo binding**|Amir Shee et.al.|[2409.02655](http://arxiv.org/abs/2409.02655)|null|
 |**2024-08-21**|**Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices**|Leila Taghizadeh et.al.|[2408.11485](http://arxiv.org/abs/2408.11485)|null|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
 ## Jailbreak
 
@@ -141,7 +141,7 @@
 |**2023-07-05**|**Jailbroken: How Does LLM Safety Training Fail?**|Alexander Wei et.al.|[2307.02483](http://arxiv.org/abs/2307.02483)|null|
 |**2024-03-27**|**Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks**|Abhinav Rao et.al.|[2305.14965](http://arxiv.org/abs/2305.14965)|**[link](https://github.com/AetherPrior/TrickLLM)**|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
