@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
@@ -24,11 +24,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level**|Xinyi Zeng et.al.|[2410.06809](http://arxiv.org/abs/2410.06809)|null|
+|**2024-10-04**|**Developing Assurance Cases for Adversarial Robustness and Regulatory Compliance in LLMs**|Tomas Bueno Momcilovic et.al.|[2410.05304](http://arxiv.org/abs/2410.05304)|null|
+|**2024-10-03**|**AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs**|Xiaogeng Liu et.al.|[2410.05295](http://arxiv.org/abs/2410.05295)|null|
 |**2024-10-05**|**Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks**|Zi Wang et.al.|[2410.04234](http://arxiv.org/abs/2410.04234)|null|
 |**2024-10-02**|**FlipAttack: Jailbreak LLMs via Flipping**|Yue Liu et.al.|[2410.02832](http://arxiv.org/abs/2410.02832)|**[link](https://github.com/yueliu1999/flipattack)**|
 |**2024-10-04**|**Buckle Up: Robustifying LLMs at Every Customization Stage via Data Curation**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
-|**2024-09-23**|**Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
+|**2024-10-08**|**Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
 |**2024-10-03**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|null|
 |**2024-09-11**|**AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs**|Lijia Lv et.al.|[2409.07503](http://arxiv.org/abs/2409.07503)|**[link](https://github.com/yummy416/adappa)**|
 |**2024-09-10**|**DiPT: Enhancing LLM reasoning through diversified perspective-taking**|Hoang Anh Just et.al.|[2409.06241](http://arxiv.org/abs/2409.06241)|null|
@@ -74,7 +77,7 @@ layout: default
 |**2024-05-30**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
 |**2024-05-30**|**Efficient LLM-Jailbreaking by Introducing Visual Modality**|Zhenxing Niu et.al.|[2405.20015](http://arxiv.org/abs/2405.20015)|null|
 |**2024-05-24**|**Hacc-Man: An Arcade Game for Jailbreaking LLMs**|Matheus Valentim et.al.|[2405.15902](http://arxiv.org/abs/2405.15902)|null|
-|**2024-05-23**|**Extracting Prompts by Inverting LLM Outputs**|Collin Zhang et.al.|[2405.15012](http://arxiv.org/abs/2405.15012)|**[link](https://github.com/collinzrj/output2prompt)**|
+|**2024-10-08**|**Extracting Prompts by Inverting LLM Outputs**|Collin Zhang et.al.|[2405.15012](http://arxiv.org/abs/2405.15012)|**[link](https://github.com/collinzrj/output2prompt)**|
 |**2024-10-07**|**Representation noising effectively prevents harmful fine-tuning on LLMs**|Domenic Rosati et.al.|[2405.14577](http://arxiv.org/abs/2405.14577)|null|
 |**2024-05-22**|**WordGame: Efficient & Effective LLM Jailbreak via Simultaneous Obfuscation in Query and Response**|Tianrong Zhang et.al.|[2405.14023](http://arxiv.org/abs/2405.14023)|null|
 |**2024-06-19**|**Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation**|Yuxi Li et.al.|[2405.13068](http://arxiv.org/abs/2405.13068)|**[link](https://github.com/llm-integrity-guard/jailmine)**|
