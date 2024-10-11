@@ -105,14 +105,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         # 这是多模态的安全，粗粒度是多模态，细粒度是各种安全问题
         if topic == "Multimodal security and privacy":
-            if (result.title.find("adversarial") == -1) and (result.title.find("attack") == -1) and (result.title.find("defend") == -1) and (result.title.find("defense") == -1) and (result.title.find("robust") == -1):
-                if (result.title.find("backdoor") == -1) and (result.title.find("poison") == -1) and (result.title.find("hijack") == -1) and (result.title.find("trojan") == -1):
-                    if (result.title.find("privacy") == -1) and (result.title.find("membership") == -1) and (result.title.find("propery inference") == -1) and (result.title.find("stealing") == -1) and (result.title.find("model inversion") == -1) and (result.title.find("model extraction") == -1):
+            if (result.title.lower().find("adversarial") == -1) and (result.title.lower().find("attack") == -1) and (result.title.lower().find("defend") == -1) and (result.title.lower().find("defense") == -1) and (result.title.lower().find("robust") == -1):
+                if (result.title.lower().find("backdoor") == -1) and (result.title.lower().find("poison") == -1) and (result.title.lower().find("hijack") == -1) and (result.title.lower().find("trojan") == -1):
+                    if (result.title.lower().find("privacy") == -1) and (result.title.lower().find("membership") == -1) and (result.title.lower().find("propery inference") == -1) and (result.title.lower().find("stealing") == -1) and (result.title.lower().find("model inversion") == -1) and (result.title.lower().find("model extraction") == -1):
                         continue
         
         # jailbreak，粗粒度是jailbreak；细粒度则限制在LLM、multimodal等，不能搞成非计算机的
         if topic == "Jailbreak":
-            if (result.title.find("LLM") == -1) and (result.title.find("multimodal") == -1) and (result.title.find("modality") == -1) and (result.title.find("diffusion") == -1) and (result.title.find("language") == -1):
+            if (result.title.lower().find("llm") == -1) and (result.title.lower().find("multimodal") == -1) and (result.title.lower().find("modality") == -1) and (result.title.lower().find("diffusion") == -1) and (result.title.lower().find("language") == -1):
                 continue
 
         paper_id            = result.get_short_id()
