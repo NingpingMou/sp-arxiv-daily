@@ -7,13 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
+|**2024-10-14**|**Identity-Focused Inference and Extraction Attacks on Diffusion Models**|Jayneel Vora et.al.|[2410.10177](http://arxiv.org/abs/2410.10177)|null|
+|**2024-10-14**|**Generative Deep Learning and Signal Processing for Data Augmentation of Cardiac Auscultation Signals: Improving Model Robustness Using Synthetic Audio**|Leigh Abbott et.al.|[2410.10125](http://arxiv.org/abs/2410.10125)|null|
+|**2024-10-13**|**t-READi: Transformer-Powered Robust and Efficient Multimodal Inference for Autonomous Driving**|Pengfei Hu et.al.|[2410.09747](http://arxiv.org/abs/2410.09747)|null|
+|**2024-10-14**|**RoRA-VLM: Robust Retrieval-Augmented Vision Language Models**|Jingyuan Qi et.al.|[2410.08876](http://arxiv.org/abs/2410.08876)|null|
+|**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692](http://arxiv.org/abs/2410.08692)|null|
+|**2024-10-11**|**AdvDiffuser: Generating Adversarial Safety-Critical Driving Scenarios via Guided Diffusion**|Yuting Xie et.al.|[2410.08453](http://arxiv.org/abs/2410.08453)|null|
 |**2024-10-10**|**MorCode: Face Morphing Attack Generation using Generative Codebooks**|Aravinda Reddy PN et.al.|[2410.07625](http://arxiv.org/abs/2410.07625)|null|
 |**2024-10-08**|**Fortify Your Foundations: Practical Privacy and Security for Foundation Model Deployments In The Cloud**|Marcin Chrapek et.al.|[2410.05930](http://arxiv.org/abs/2410.05930)|null|
 |**2024-10-08**|**DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing**|June Suk Choi et.al.|[2410.05694](http://arxiv.org/abs/2410.05694)|**[link](https://github.com/choi403/diffusionguard)**|
@@ -81,9 +88,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues**|Qibing Ren et.al.|[2410.10700](http://arxiv.org/abs/2410.10700)|**[link](https://github.com/renqibing/actorattack)**|
+|**2024-10-14**|**On Calibration of LLM-based Guard Models for Reliable Content Moderation**|Hongfu Liu et.al.|[2410.10414](http://arxiv.org/abs/2410.10414)|null|
+|**2024-10-14**|**Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting**|Yifan Luo et.al.|[2410.10150](http://arxiv.org/abs/2410.10150)|null|
+|**2024-10-13**|**BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models**|Xinyuan Wang et.al.|[2410.09804](http://arxiv.org/abs/2410.09804)|null|
+|**2024-10-09**|**Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations**|Tarun Raheja et.al.|[2410.09097](http://arxiv.org/abs/2410.09097)|null|
+|**2024-10-11**|**AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation**|Zijun Wang et.al.|[2410.09040](http://arxiv.org/abs/2410.09040)|**[link](https://github.com/ucsc-vlaa/attngcg-attack)**|
+|**2024-10-14**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
 |**2024-10-09**|**Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level**|Xinyi Zeng et.al.|[2410.06809](http://arxiv.org/abs/2410.06809)|null|
 |**2024-10-04**|**Developing Assurance Cases for Adversarial Robustness and Regulatory Compliance in LLMs**|Tomas Bueno Momcilovic et.al.|[2410.05304](http://arxiv.org/abs/2410.05304)|null|
-|**2024-10-03**|**AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs**|Xiaogeng Liu et.al.|[2410.05295](http://arxiv.org/abs/2410.05295)|**[link](https://github.com/safolab-wisc/autodan-turbo)**|
+|**2024-10-14**|**AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs**|Xiaogeng Liu et.al.|[2410.05295](http://arxiv.org/abs/2410.05295)|**[link](https://github.com/safolab-wisc/autodan-turbo)**|
 |**2024-10-05**|**Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks**|Zi Wang et.al.|[2410.04234](http://arxiv.org/abs/2410.04234)|null|
 |**2024-10-05**|**Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models**|Yiting Dong et.al.|[2410.04190](http://arxiv.org/abs/2410.04190)|null|
 |**2024-10-02**|**SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks**|Tianhao Li et.al.|[2410.03769](http://arxiv.org/abs/2410.03769)|null|
@@ -129,7 +143,7 @@ layout: default
 |**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
 |**2024-09-09**|**Jailbreaking Text-to-Image Models with LLM-Based Agents**|Yingkai Dong et.al.|[2408.00523](http://arxiv.org/abs/2408.00523)|null|
-|**2024-08-01**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|**[link](https://github.com/pandragonxiii/cider)**|
+|**2024-10-11**|**Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|**[link](https://github.com/pandragonxiii/cider)**|
 |**2024-07-26**|**Exploring Scaling Trends in LLM Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
 |**2024-08-29**|**The Dark Side of Function Calling: Pathways to Jailbreaking Large Language Models**|Zihui Wu et.al.|[2407.17915](http://arxiv.org/abs/2407.17915)|**[link](https://github.com/wooozihui/jailbreakfunction)**|
 |**2024-08-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
@@ -200,7 +214,7 @@ layout: default
 |**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
 |**2024-05-29**|**Quantitative Certification of Bias in Large Language Models**|Isha Chaudhary et.al.|[2405.18780](http://arxiv.org/abs/2405.18780)|**[link](https://github.com/uiuc-focal-lab/quacer-b)**|
 |**2024-06-14**|**Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing**|Wei Zhao et.al.|[2405.18166](http://arxiv.org/abs/2405.18166)|**[link](https://github.com/ledllm/ledllm)**|
-|**2024-05-28**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|null|
+|**2024-10-14**|**White-box Multimodal Jailbreaks Against Large Vision-Language Models**|Ruofan Wang et.al.|[2405.17894](http://arxiv.org/abs/2405.17894)|**[link](https://github.com/roywang021/UMK)**|
 |**2024-05-24**|**Hacc-Man: An Arcade Game for Jailbreaking LLMs**|Matheus Valentim et.al.|[2405.15902](http://arxiv.org/abs/2405.15902)|null|
 |**2024-10-08**|**Extracting Prompts by Inverting LLM Outputs**|Collin Zhang et.al.|[2405.15012](http://arxiv.org/abs/2405.15012)|**[link](https://github.com/collinzrj/output2prompt)**|
 |**2024-10-07**|**Representation noising effectively prevents harmful fine-tuning on LLMs**|Domenic Rosati et.al.|[2405.14577](http://arxiv.org/abs/2405.14577)|null|
@@ -218,7 +232,7 @@ layout: default
 |**2024-05-07**|**Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent**|Shang Shang et.al.|[2405.03654](http://arxiv.org/abs/2405.03654)|null|
 |**2024-05-10**|**Evaluating and Mitigating Linguistic Discrimination in Large Language Models**|Guoliang Dong et.al.|[2404.18534](http://arxiv.org/abs/2404.18534)|null|
 |**2024-04-21**|**AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs**|Anselm Paulus et.al.|[2404.16873](http://arxiv.org/abs/2404.16873)|**[link](https://github.com/facebookresearch/advprompter)**|
-|**2024-04-25**|**Don't Say No: Jailbreaking LLM by Suppressing Refusal**|Yukai Zhou et.al.|[2404.16369](http://arxiv.org/abs/2404.16369)|null|
+|**2024-10-12**|**Don't Say No: Jailbreaking LLM by Suppressing Refusal**|Yukai Zhou et.al.|[2404.16369](http://arxiv.org/abs/2404.16369)|**[link](https://github.com/dsn-2024/dsn)**|
 |**2024-06-06**|**Competition Report: Finding Universal Jailbreak Backdoors in Aligned LLMs**|Javier Rando et.al.|[2404.14461](http://arxiv.org/abs/2404.14461)|**[link](https://github.com/ethz-spylab/rlhf_trojan_competition)**|
 |**2024-10-10**|**Protecting Your LLMs with Information Bottleneck**|Zichuan Liu et.al.|[2404.13968](http://arxiv.org/abs/2404.13968)|**[link](https://github.com/zichuan-liu/ib4llms)**|
 |**2024-04-19**|**The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions**|Eric Wallace et.al.|[2404.13208](http://arxiv.org/abs/2404.13208)|null|
@@ -242,7 +256,7 @@ layout: default
 |**2024-07-23**|**RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content**|Zhuowen Yuan et.al.|[2403.13031](http://arxiv.org/abs/2403.13031)|**[link](https://github.com/eurekayuan/rigorllm)**|
 |**2024-03-18**|**EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models**|Weikang Zhou et.al.|[2403.12171](http://arxiv.org/abs/2403.12171)|**[link](https://github.com/easyjailbreak/easyjailbreak)**|
 |**2024-04-14**|**Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**|Yifan Li et.al.|[2403.09792](http://arxiv.org/abs/2403.09792)|**[link](https://github.com/rucaibox/hades)**|
-|**2024-07-15**|**Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**|Yunhao Gou et.al.|[2403.09572](http://arxiv.org/abs/2403.09572)|null|
+|**2024-10-15**|**Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**|Yunhao Gou et.al.|[2403.09572](http://arxiv.org/abs/2403.09572)|null|
 |**2024-03-14**|**AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting**|Yu Wang et.al.|[2403.09513](http://arxiv.org/abs/2403.09513)|**[link](https://github.com/rain305f/adashield)**|
 |**2024-07-17**|**The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?**|Qinyu Zhao et.al.|[2403.09037](http://arxiv.org/abs/2403.09037)|**[link](https://github.com/qinyu-allen-zhao/lvlm-lp)**|
 |**2024-09-30**|**Distract Large Language Models for Automatic Jailbreak Attack**|Zeguan Xiao et.al.|[2403.08424](http://arxiv.org/abs/2403.08424)|**[link](https://github.com/sufenlp/AttanttionShiftJailbreak)**|
