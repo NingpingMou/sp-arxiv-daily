@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.15
+## Updated on 2024.11.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**|Nancy R. Newlin et.al.|[2411.09618](http://arxiv.org/abs/2411.09618)|**[link](https://github.com/nancynewlin-masi/QuantConn)**|
+|**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|null|
+|**2024-11-13**|**Global attractor and robust exponential attractors for some classes of fourth-order nonlinear evolution equations**|Beniamin Goldys et.al.|[2411.09034](http://arxiv.org/abs/2411.09034)|null|
 |**2024-11-13**|**Robust Divergence Learning for Missing-Modality Segmentation**|Runze Cheng et.al.|[2411.08305](http://arxiv.org/abs/2411.08305)|null|
 |**2024-11-12**|**Semi-Truths: A Large-Scale Dataset of AI-Augmented Images for Evaluating Robustness of AI-Generated Image detectors**|Anisha Pal et.al.|[2411.07472](http://arxiv.org/abs/2411.07472)|**[link](https://github.com/j-kruk/semitruths)**|
 |**2024-11-10**|**SamRobNODDI: Q-Space Sampling-Augmented Continuous Representation Learning for Robust and Generalized NODDI**|Taohui Xiao et.al.|[2411.06444](http://arxiv.org/abs/2411.06444)|null|
@@ -34,7 +37,7 @@ layout: default
 |**2024-11-02**|**Privacy-Preserving Federated Learning with Differentially Private Hyperdimensional Computing**|Fardin Jalil Piran et.al.|[2411.01140](http://arxiv.org/abs/2411.01140)|null|
 |**2024-11-01**|**Cityscape-Adverse: Benchmarking Robustness of Semantic Segmentation with Realistic Scene Modifications via Diffusion-Based Image Editing**|Naufal Suryanto et.al.|[2411.00425](http://arxiv.org/abs/2411.00425)|**[link](https://github.com/naufalso/cityscape-adverse)**|
 |**2024-10-31**|**Cough-E: A multimodal, privacy-preserving cough detection algorithm for the edge**|Stefano Albini et.al.|[2410.24066](http://arxiv.org/abs/2410.24066)|**[link](https://github.com/esl-epfl/Cough-E)**|
-|**2024-10-31**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006](http://arxiv.org/abs/2410.24006)|null|
+|**2024-11-14**|**DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination**|Jia Fu et.al.|[2410.24006](http://arxiv.org/abs/2410.24006)|**[link](https://github.com/jasonfu1998/diffpad)**|
 |**2024-11-01**|**Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation**|Kyungjin Seo et.al.|[2410.23629](http://arxiv.org/abs/2410.23629)|null|
 |**2024-11-12**|**CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense**|Mingkun Zhang et.al.|[2410.23091](http://arxiv.org/abs/2410.23091)|null|
 |**2024-10-30**|**PV-VTT: A Privacy-Centric Dataset for Mission-Specific Anomaly Detection and Natural Language Interpretation**|Ryozo Masukawa et.al.|[2410.22623](http://arxiv.org/abs/2410.22623)|null|
@@ -142,6 +145,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|null|
+|**2024-11-14**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125](http://arxiv.org/abs/2411.09125)|**[link](https://github.com/leon-leyang/llm-safeguard)**|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
 |**2024-11-13**|**The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense**|Yangyang Guo et.al.|[2411.08410](http://arxiv.org/abs/2411.08410)|null|
 |**2024-11-12**|**Zer0-Jack: A Memory-efficient Gradient-based Jailbreaking Method for Black-box Multi-modal Large Language Models**|Tiejin Chen et.al.|[2411.07559](http://arxiv.org/abs/2411.07559)|null|
@@ -353,7 +358,7 @@ layout: default
 |**2024-03-14**|**AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting**|Yu Wang et.al.|[2403.09513](http://arxiv.org/abs/2403.09513)|**[link](https://github.com/rain305f/adashield)**|
 |**2024-07-17**|**The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?**|Qinyu Zhao et.al.|[2403.09037](http://arxiv.org/abs/2403.09037)|**[link](https://github.com/qinyu-allen-zhao/lvlm-lp)**|
 |**2024-09-30**|**Distract Large Language Models for Automatic Jailbreak Attack**|Zeguan Xiao et.al.|[2403.08424](http://arxiv.org/abs/2403.08424)|**[link](https://github.com/sufenlp/AttanttionShiftJailbreak)**|
-|**2024-03-02**|**AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks**|Yifan Zeng et.al.|[2403.04783](http://arxiv.org/abs/2403.04783)|**[link](https://github.com/xhmy/autodefense)**|
+|**2024-11-14**|**AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks**|Yifan Zeng et.al.|[2403.04783](http://arxiv.org/abs/2403.04783)|**[link](https://github.com/xhmy/autodefense)**|
 |**2024-03-06**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910](http://arxiv.org/abs/2403.02910)|**[link](https://github.com/xijia-tao/imgtrojan)**|
 |**2024-11-07**|**Gradient Cuff: Detecting Jailbreak Attacks on Large Language Models by Exploring Refusal Loss Landscapes**|Xiaomeng Hu et.al.|[2403.00867](http://arxiv.org/abs/2403.00867)|null|
 |**2024-06-10**|**Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction**|Tong Liu et.al.|[2402.18104](http://arxiv.org/abs/2402.18104)|**[link](https://github.com/llm-dra/dra)**|
