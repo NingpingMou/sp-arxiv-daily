@@ -7,17 +7,21 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**|Lan Jiang et.al.|[2411.14418](http://arxiv.org/abs/2411.14418)|null|
+|**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
+|**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
+|**2024-11-19**|**RoSIS: Robust Framework for Text-Promptable Surgical Instrument Segmentation Using Vision-Language Fusion**|Tae-Min Choi et.al.|[2411.12199](http://arxiv.org/abs/2411.12199)|null|
 |**2024-11-18**|**Parallelly Tempered Generative Adversarial Networks**|Jinwon Sohn et.al.|[2411.11786](http://arxiv.org/abs/2411.11786)|null|
 |**2024-11-18**|**Robust Reinforcement Learning under Diffusion Models for Data with Jumps**|Chenyang Jiang et.al.|[2411.11697](http://arxiv.org/abs/2411.11697)|null|
 |**2024-11-17**|**Stealing Training Graphs from Graph Neural Networks**|Minhua Lin et.al.|[2411.11197](http://arxiv.org/abs/2411.11197)|null|
-|**2024-11-17**|**D-Cube: Exploiting Hyper-Features of Diffusion Model for Robust Medical Classification**|Minhee Jang et.al.|[2411.11087](http://arxiv.org/abs/2411.11087)|null|
+|**2024-11-17**|**D-Cube: Exploiting Hyper-Features of Diffusion Model for Robust Medical Classification**|Minhee Jang et.al.|[2411.11087](http://arxiv.org/abs/2411.11087)|**[link](https://github.com/medical-ai-cv/D-Cube)**|
 |**2024-11-17**|**BackdoorMBTI: A Backdoor Learning Multimodal Benchmark Tool Kit for Backdoor Defense Evaluation**|Haiyang Yu et.al.|[2411.11006](http://arxiv.org/abs/2411.11006)|null|
 |**2024-11-15**|**Prompt-Guided Environmentally Consistent Adversarial Patch**|Chaoqun Li et.al.|[2411.10498](http://arxiv.org/abs/2411.10498)|null|
 |**2024-11-15**|**Multi-Task Adversarial Variational Autoencoder for Estimating Biological Brain Age with Multimodal Neuroimaging**|Muhammad Usman et.al.|[2411.10100](http://arxiv.org/abs/2411.10100)|**[link](https://github.com/engrussman/MAVAE)**|
@@ -69,7 +73,7 @@ layout: default
 |**2024-10-22**|**Dual-Model Defense: Safeguarding Diffusion Models from Membership Inference Attacks through Disjoint Data Splitting**|Bao Q. Tran et.al.|[2410.16657](http://arxiv.org/abs/2410.16657)|null|
 |**2024-10-29**|**Erasing Undesirable Concepts in Diffusion Models with Adversarial Preservation**|Anh Bui et.al.|[2410.15618](http://arxiv.org/abs/2410.15618)|**[link](https://github.com/tuananhbui89/erasing-adversarial-preservation)**|
 |**2024-10-19**|**Attack as Defense: Run-time Backdoor Implantation for Image Content Protection**|Haichuan Zhang et.al.|[2410.14966](http://arxiv.org/abs/2410.14966)|**[link](https://github.com/LeopoldZhang1610/Attack_as_Defense)**|
-|**2024-10-31**|**Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step**|Mingyuan Zhou et.al.|[2410.14919](http://arxiv.org/abs/2410.14919)|**[link](https://github.com/mingyuanzhou/sid)**|
+|**2024-11-20**|**Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step**|Mingyuan Zhou et.al.|[2410.14919](http://arxiv.org/abs/2410.14919)|**[link](https://github.com/mingyuanzhou/sid)**|
 |**2024-10-17**|**MMAD-Purify: A Precision-Optimized Framework for Efficient and Scalable Multi-Modal Attacks**|Xinxin Liu et.al.|[2410.14089](http://arxiv.org/abs/2410.14089)|null|
 |**2024-10-23**|**From Real Artifacts to Virtual Reference: A Robust Framework for Translating Endoscopic Images**|Junyang Wu et.al.|[2410.13896](http://arxiv.org/abs/2410.13896)|null|
 |**2024-10-17**|**Robust time-DG finite and virtual elements for the time-dependent advection--diffusion equation**|Lourenço Beirão Da Veiga et.al.|[2410.13635](http://arxiv.org/abs/2410.13635)|null|
@@ -81,7 +85,7 @@ layout: default
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
 |**2024-10-14**|**Identity-Focused Inference and Extraction Attacks on Diffusion Models**|Jayneel Vora et.al.|[2410.10177](http://arxiv.org/abs/2410.10177)|null|
 |**2024-10-14**|**Generative Deep Learning and Signal Processing for Data Augmentation of Cardiac Auscultation Signals: Improving Model Robustness Using Synthetic Audio**|Leigh Abbott et.al.|[2410.10125](http://arxiv.org/abs/2410.10125)|null|
-|**2024-10-17**|**t-READi: Transformer-Powered Robust and Efficient Multimodal Inference for Autonomous Driving**|Pengfei Hu et.al.|[2410.09747](http://arxiv.org/abs/2410.09747)|null|
+|**2024-11-21**|**t-READi: Transformer-Powered Robust and Efficient Multimodal Inference for Autonomous Driving**|Pengfei Hu et.al.|[2410.09747](http://arxiv.org/abs/2410.09747)|null|
 |**2024-10-14**|**RoRA-VLM: Robust Retrieval-Augmented Vision Language Models**|Jingyuan Qi et.al.|[2410.08876](http://arxiv.org/abs/2410.08876)|null|
 |**2024-10-11**|**Contrastive Knowledge Distillation for Robust Multimodal Sentiment Analysis**|Zhongyi Sang et.al.|[2410.08692](http://arxiv.org/abs/2410.08692)|null|
 |**2024-10-11**|**AdvDiffuser: Generating Adversarial Safety-Critical Driving Scenarios via Guided Diffusion**|Yuting Xie et.al.|[2410.08453](http://arxiv.org/abs/2410.08453)|null|
@@ -152,8 +156,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-18**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|null|
-|**2024-11-18**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models**|Xikang Yang et.al.|[2411.11407](http://arxiv.org/abs/2411.11407)|null|
+|**2024-11-21**|**GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs**|Advik Raj Basani et.al.|[2411.14133](http://arxiv.org/abs/2411.14133)|**[link](https://github.com/llm-gasp/gasp)**|
+|**2024-11-20**|**A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection**|Gabriel Chua et.al.|[2411.12946](http://arxiv.org/abs/2411.12946)|null|
+|**2024-11-16**|**Playing Language Game with LLMs Leads to Jailbreaking**|Yu Peng et.al.|[2411.12762](http://arxiv.org/abs/2411.12762)|null|
+|**2024-11-19**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|null|
+|**2024-11-18**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models**|Xikang Yang et.al.|[2411.11407](http://arxiv.org/abs/2411.11407)|**[link](https://github.com/YancyKahn/DarkCite)**|
 |**2024-11-18**|**Steering Language Model Refusal with Sparse Autoencoders**|Kyle O'Brien et.al.|[2411.11296](http://arxiv.org/abs/2411.11296)|null|
 |**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|null|
 |**2024-11-14**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125](http://arxiv.org/abs/2411.09125)|**[link](https://github.com/leon-leyang/llm-safeguard)**|
