@@ -7,35 +7,41 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598](http://arxiv.org/abs/2411.16598)|null|
+|**2024-11-26**|**A robust image encryption scheme based on new 4-D hyperchaotic system and elliptic curve**|Yehia Lalili et.al.|[2411.17643](http://arxiv.org/abs/2411.17643)|null|
+|**2024-11-26**|**A Generator of Neural Network Potential for Molecular Dynamics: Constructing Robust and Accurate Potentials with Active Learning for Nanosecond-scale Simulations**|Naoki Matsumura et.al.|[2411.17191](http://arxiv.org/abs/2411.17191)|null|
+|**2024-11-26**|**Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation**|Xu Zheng et.al.|[2411.17141](http://arxiv.org/abs/2411.17141)|null|
+|**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832](http://arxiv.org/abs/2411.16832)|null|
+|**2024-11-25**|**Scaling Laws for Black box Adversarial Attacks**|Chuan Liu et.al.|[2411.16782](http://arxiv.org/abs/2411.16782)|null|
+|**2024-11-23**|**Federated Learning in Chemical Engineering: A Tutorial on a Framework for Privacy-Preserving Collaboration Across Distributed Data Sources**|Siddhant Dutta et.al.|[2411.16737](http://arxiv.org/abs/2411.16737)|null|
+|**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598](http://arxiv.org/abs/2411.16598)|**[link](https://github.com/andrekassis/DiffBreak)**|
 |**2024-11-25**|**Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack**|Xide Xu et.al.|[2411.16437](http://arxiv.org/abs/2411.16437)|null|
-|**2024-11-25**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|null|
+|**2024-11-27**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|**[link](https://github.com/qwtforgithub/cdsegnet)**|
 |**2024-11-24**|**Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering**|Zhicheng Zhao et.al.|[2411.15770](http://arxiv.org/abs/2411.15770)|null|
-|**2024-11-24**|**Robustifying Long-term Human-Robot Collaboration through a Hierarchical and Multimodal Framework**|Peiqi Yu et.al.|[2411.15711](http://arxiv.org/abs/2411.15711)|null|
+|**2024-11-24**|**Robustifying Long-term Human-Robot Collaboration through a Hierarchical and Multimodal Framework**|Peiqi Yu et.al.|[2411.15711](http://arxiv.org/abs/2411.15711)|**[link](https://github.com/intelligent-control-lab/robust-hierarchial-multimodal-hrc)**|
 |**2024-11-23**|**An adversarial feature learning based semantic communication method for Human 3D Reconstruction**|Shaojiang Liu et.al.|[2411.15595](http://arxiv.org/abs/2411.15595)|null|
-|**2024-11-22**|**Exploiting Watermark-Based Defense Mechanisms in Text-to-Image Diffusion Models for Unauthorized Data Usage**|Soumil Datta et.al.|[2411.15367](http://arxiv.org/abs/2411.15367)|null|
+|**2024-11-26**|**Exploiting Watermark-Based Defense Mechanisms in Text-to-Image Diffusion Models for Unauthorized Data Usage**|Soumil Datta et.al.|[2411.15367](http://arxiv.org/abs/2411.15367)|null|
 |**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937](http://arxiv.org/abs/2411.14937)|**[link](https://github.com/HKU-TASR/Geminio)**|
 |**2024-11-22**|**TrojanEdit: Backdooring Text-Based Image Editing Models**|Ji Guo et.al.|[2411.14681](http://arxiv.org/abs/2411.14681)|null|
 |**2024-11-21**|**Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**|Lan Jiang et.al.|[2411.14418](http://arxiv.org/abs/2411.14418)|null|
 |**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
-|**2024-11-19**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
+|**2024-11-27**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
 |**2024-11-19**|**RoSIS: Robust Framework for Text-Promptable Surgical Instrument Segmentation Using Vision-Language Fusion**|Tae-Min Choi et.al.|[2411.12199](http://arxiv.org/abs/2411.12199)|null|
 |**2024-11-18**|**Parallelly Tempered Generative Adversarial Networks**|Jinwon Sohn et.al.|[2411.11786](http://arxiv.org/abs/2411.11786)|null|
 |**2024-11-18**|**Robust Reinforcement Learning under Diffusion Models for Data with Jumps**|Chenyang Jiang et.al.|[2411.11697](http://arxiv.org/abs/2411.11697)|null|
 |**2024-11-17**|**Stealing Training Graphs from Graph Neural Networks**|Minhua Lin et.al.|[2411.11197](http://arxiv.org/abs/2411.11197)|null|
 |**2024-11-17**|**D-Cube: Exploiting Hyper-Features of Diffusion Model for Robust Medical Classification**|Minhee Jang et.al.|[2411.11087](http://arxiv.org/abs/2411.11087)|**[link](https://github.com/medical-ai-cv/D-Cube)**|
-|**2024-11-17**|**BackdoorMBTI: A Backdoor Learning Multimodal Benchmark Tool Kit for Backdoor Defense Evaluation**|Haiyang Yu et.al.|[2411.11006](http://arxiv.org/abs/2411.11006)|null|
+|**2024-11-17**|**BackdoorMBTI: A Backdoor Learning Multimodal Benchmark Tool Kit for Backdoor Defense Evaluation**|Haiyang Yu et.al.|[2411.11006](http://arxiv.org/abs/2411.11006)|**[link](https://github.com/SJTUHaiyangYu/BackdoorMBTI)**|
 |**2024-11-15**|**Prompt-Guided Environmentally Consistent Adversarial Patch**|Chaoqun Li et.al.|[2411.10498](http://arxiv.org/abs/2411.10498)|null|
 |**2024-11-15**|**Multi-Task Adversarial Variational Autoencoder for Estimating Biological Brain Age with Multimodal Neuroimaging**|Muhammad Usman et.al.|[2411.10100](http://arxiv.org/abs/2411.10100)|**[link](https://github.com/engrussman/MAVAE)**|
 |**2024-11-14**|**MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**|Nancy R. Newlin et.al.|[2411.09618](http://arxiv.org/abs/2411.09618)|**[link](https://github.com/nancynewlin-masi/QuantConn)**|
-|**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|null|
+|**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|**[link](https://github.com/liuxuannan/awesome-multimodal-jailbreak)**|
 |**2024-11-13**|**Global attractor and robust exponential attractors for some classes of fourth-order nonlinear evolution equations**|Beniamin Goldys et.al.|[2411.09034](http://arxiv.org/abs/2411.09034)|null|
 |**2024-11-13**|**Robust Divergence Learning for Missing-Modality Segmentation**|Runze Cheng et.al.|[2411.08305](http://arxiv.org/abs/2411.08305)|null|
 |**2024-11-12**|**Semi-Truths: A Large-Scale Dataset of AI-Augmented Images for Evaluating Robustness of AI-Generated Image detectors**|Anisha Pal et.al.|[2411.07472](http://arxiv.org/abs/2411.07472)|**[link](https://github.com/j-kruk/semitruths)**|
@@ -165,15 +171,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
+|**2024-11-25**|**In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models**|Zhi-Yi Chin et.al.|[2411.16769](http://arxiv.org/abs/2411.16769)|null|
+|**2024-11-23**|**ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain**|Haochen Zhao et.al.|[2411.16736](http://arxiv.org/abs/2411.16736)|**[link](https://github.com/haochenzhao/safeagent4chem)**|
+|**2024-11-23**|**"Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks**|Libo Wang et.al.|[2411.16730](http://arxiv.org/abs/2411.16730)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
+|**2024-11-23**|**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**|Han Wang et.al.|[2411.16721](http://arxiv.org/abs/2411.16721)|null|
 |**2024-11-22**|**Universal and Context-Independent Triggers for Precise Control of LLM Outputs**|Jiashuo Liang et.al.|[2411.14738](http://arxiv.org/abs/2411.14738)|null|
 |**2024-11-21**|**Global Challenge for Safe and Secure LLMs Track 1**|Xiaojun Jia et.al.|[2411.14502](http://arxiv.org/abs/2411.14502)|null|
 |**2024-11-21**|**GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs**|Advik Raj Basani et.al.|[2411.14133](http://arxiv.org/abs/2411.14133)|**[link](https://github.com/llm-gasp/gasp)**|
 |**2024-11-20**|**A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection**|Gabriel Chua et.al.|[2411.12946](http://arxiv.org/abs/2411.12946)|null|
-|**2024-11-16**|**Playing Language Game with LLMs Leads to Jailbreaking**|Yu Peng et.al.|[2411.12762](http://arxiv.org/abs/2411.12762)|null|
+|**2024-11-27**|**Playing Language Game with LLMs Leads to Jailbreaking**|Yu Peng et.al.|[2411.12762](http://arxiv.org/abs/2411.12762)|null|
 |**2024-11-19**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|null|
 |**2024-11-18**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models**|Xikang Yang et.al.|[2411.11407](http://arxiv.org/abs/2411.11407)|**[link](https://github.com/YancyKahn/DarkCite)**|
 |**2024-11-18**|**Steering Language Model Refusal with Sparse Autoencoders**|Kyle O'Brien et.al.|[2411.11296](http://arxiv.org/abs/2411.11296)|null|
-|**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|null|
+|**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|**[link](https://github.com/liuxuannan/awesome-multimodal-jailbreak)**|
 |**2024-11-14**|**DROJ: A Prompt-Driven Attack against Large Language Models**|Leyang Hu et.al.|[2411.09125](http://arxiv.org/abs/2411.09125)|**[link](https://github.com/leon-leyang/llm-safeguard)**|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
 |**2024-11-13**|**The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense**|Yangyang Guo et.al.|[2411.08410](http://arxiv.org/abs/2411.08410)|null|
@@ -187,9 +198,9 @@ layout: default
 |**2024-11-16**|**SQL Injection Jailbreak: a structural disaster of large language models**|Jiawei Zhao et.al.|[2411.01565](http://arxiv.org/abs/2411.01565)|**[link](https://github.com/weiyezhimeng/sql-injection-jailbreak)**|
 |**2024-11-01**|**Emoji Attack: A Method for Misleading Judge LLMs in Safety Risk Detection**|Zhipeng Wei et.al.|[2411.01077](http://arxiv.org/abs/2411.01077)|**[link](https://github.com/zhipeng-wei/EmojiAttack)**|
 |**2024-11-15**|**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**|Ruofan Wang et.al.|[2411.00827](http://arxiv.org/abs/2411.00827)|null|
-|**2024-11-02**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049](http://arxiv.org/abs/2410.24049)|null|
+|**2024-11-26**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049](http://arxiv.org/abs/2410.24049)|null|
 |**2024-10-31**|**Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models**|Hao Yang et.al.|[2410.23861](http://arxiv.org/abs/2410.23861)|null|
-|**2024-10-31**|**Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models**|Yiqi Yang et.al.|[2410.23558](http://arxiv.org/abs/2410.23558)|null|
+|**2024-11-27**|**Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models**|Yiqi Yang et.al.|[2410.23558](http://arxiv.org/abs/2410.23558)|null|
 |**2024-10-29**|**Benchmarking LLM Guardrails in Handling Multilingual Toxicity**|Yahan Yang et.al.|[2410.22153](http://arxiv.org/abs/2410.22153)|null|
 |**2024-10-29**|**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**|Vishal Kumar et.al.|[2410.22143](http://arxiv.org/abs/2410.22143)|null|
 |**2024-10-29**|**SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types**|Yutao Mou et.al.|[2410.21965](http://arxiv.org/abs/2410.21965)|**[link](https://github.com/MurrayTom/SG-Bench)**|
@@ -217,13 +228,13 @@ layout: default
 |**2024-10-14**|**Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues**|Qibing Ren et.al.|[2410.10700](http://arxiv.org/abs/2410.10700)|**[link](https://github.com/renqibing/actorattack)**|
 |**2024-10-14**|**On Calibration of LLM-based Guard Models for Reliable Content Moderation**|Hongfu Liu et.al.|[2410.10414](http://arxiv.org/abs/2410.10414)|**[link](https://github.com/waffle-liu/calibration_guard_model)**|
 |**2024-10-14**|**Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting**|Yifan Luo et.al.|[2410.10150](http://arxiv.org/abs/2410.10150)|null|
-|**2024-10-18**|**BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models**|Xinyuan Wang et.al.|[2410.09804](http://arxiv.org/abs/2410.09804)|null|
+|**2024-11-27**|**BlackDAN: A Black-Box Multi-Objective Approach for Effective and Contextual Jailbreaking of Large Language Models**|Xinyuan Wang et.al.|[2410.09804](http://arxiv.org/abs/2410.09804)|null|
 |**2024-10-09**|**Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations**|Tarun Raheja et.al.|[2410.09097](http://arxiv.org/abs/2410.09097)|null|
 |**2024-10-11**|**AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation**|Zijun Wang et.al.|[2410.09040](http://arxiv.org/abs/2410.09040)|**[link](https://github.com/ucsc-vlaa/attngcg-attack)**|
 |**2024-10-14**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
 |**2024-10-09**|**Root Defence Strategies: Ensuring Safety of LLM at the Decoding Level**|Xinyi Zeng et.al.|[2410.06809](http://arxiv.org/abs/2410.06809)|null|
 |**2024-10-04**|**Developing Assurance Cases for Adversarial Robustness and Regulatory Compliance in LLMs**|Tomas Bueno Momcilovic et.al.|[2410.05304](http://arxiv.org/abs/2410.05304)|null|
-|**2024-10-14**|**AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs**|Xiaogeng Liu et.al.|[2410.05295](http://arxiv.org/abs/2410.05295)|**[link](https://github.com/safolab-wisc/autodan-turbo)**|
+|**2024-11-27**|**AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs**|Xiaogeng Liu et.al.|[2410.05295](http://arxiv.org/abs/2410.05295)|**[link](https://github.com/safolab-wisc/autodan-turbo)**|
 |**2024-10-05**|**Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks**|Zi Wang et.al.|[2410.04234](http://arxiv.org/abs/2410.04234)|null|
 |**2024-10-05**|**Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models**|Yiting Dong et.al.|[2410.04190](http://arxiv.org/abs/2410.04190)|null|
 |**2024-10-02**|**SciSafeEval: A Comprehensive Benchmark for Safety Alignment of Large Language Models in Scientific Tasks**|Tianhao Li et.al.|[2410.03769](http://arxiv.org/abs/2410.03769)|null|
