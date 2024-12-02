@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.29
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,10 +20,10 @@
 |---|---|---|---|---|
 |**2024-11-26**|**A robust image encryption scheme based on new 4-D hyperchaotic system and elliptic curve**|Yehia Lalili et.al.|[2411.17643](http://arxiv.org/abs/2411.17643)|null|
 |**2024-11-26**|**A Generator of Neural Network Potential for Molecular Dynamics: Constructing Robust and Accurate Potentials with Active Learning for Nanosecond-scale Simulations**|Naoki Matsumura et.al.|[2411.17191](http://arxiv.org/abs/2411.17191)|null|
-|**2024-11-26**|**Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation**|Xu Zheng et.al.|[2411.17141](http://arxiv.org/abs/2411.17141)|null|
-|**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832](http://arxiv.org/abs/2411.16832)|null|
+|**2024-11-26**|**Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation**|Xu Zheng et.al.|[2411.17141](http://arxiv.org/abs/2411.17141)|**[link](https://github.com/zhengxuJosh/AnySeg)**|
+|**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832](http://arxiv.org/abs/2411.16832)|**[link](https://github.com/taco-group/facelock)**|
 |**2024-11-25**|**Scaling Laws for Black box Adversarial Attacks**|Chuan Liu et.al.|[2411.16782](http://arxiv.org/abs/2411.16782)|null|
-|**2024-11-23**|**Federated Learning in Chemical Engineering: A Tutorial on a Framework for Privacy-Preserving Collaboration Across Distributed Data Sources**|Siddhant Dutta et.al.|[2411.16737](http://arxiv.org/abs/2411.16737)|null|
+|**2024-11-23**|**Federated Learning in Chemical Engineering: A Tutorial on a Framework for Privacy-Preserving Collaboration Across Distributed Data Sources**|Siddhant Dutta et.al.|[2411.16737](http://arxiv.org/abs/2411.16737)|**[link](https://github.com/elucidator8918/Fed-ML-Chem)**|
 |**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598](http://arxiv.org/abs/2411.16598)|**[link](https://github.com/andrekassis/DiffBreak)**|
 |**2024-11-25**|**Privacy Protection in Personalized Diffusion Models via Targeted Cross-Attention Adversarial Attack**|Xide Xu et.al.|[2411.16437](http://arxiv.org/abs/2411.16437)|null|
 |**2024-11-27**|**An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**|Wentao Qu et.al.|[2411.16308](http://arxiv.org/abs/2411.16308)|**[link](https://github.com/qwtforgithub/cdsegnet)**|
@@ -171,7 +171,7 @@
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
 |**2024-08-21**|**Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices**|Leila Taghizadeh et.al.|[2408.11485](http://arxiv.org/abs/2408.11485)|null|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 ## Jailbreak
 
@@ -187,7 +187,7 @@
 |**2024-11-21**|**GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs**|Advik Raj Basani et.al.|[2411.14133](http://arxiv.org/abs/2411.14133)|**[link](https://github.com/llm-gasp/gasp)**|
 |**2024-11-20**|**A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection**|Gabriel Chua et.al.|[2411.12946](http://arxiv.org/abs/2411.12946)|null|
 |**2024-11-27**|**Playing Language Game with LLMs Leads to Jailbreaking**|Yu Peng et.al.|[2411.12762](http://arxiv.org/abs/2411.12762)|null|
-|**2024-11-19**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|null|
+|**2024-11-19**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|**[link](https://github.com/gzcch/safety_snowball_agent)**|
 |**2024-11-18**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models**|Xikang Yang et.al.|[2411.11407](http://arxiv.org/abs/2411.11407)|**[link](https://github.com/YancyKahn/DarkCite)**|
 |**2024-11-18**|**Steering Language Model Refusal with Sparse Autoencoders**|Kyle O'Brien et.al.|[2411.11296](http://arxiv.org/abs/2411.11296)|null|
 |**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|**[link](https://github.com/liuxuannan/awesome-multimodal-jailbreak)**|
@@ -503,7 +503,7 @@
 |**2024-03-27**|**Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks**|Abhinav Rao et.al.|[2305.14965](http://arxiv.org/abs/2305.14965)|**[link](https://github.com/AetherPrior/TrickLLM)**|
 |**2024-06-03**|**Fundamental Limitations of Alignment in Large Language Models**|Yotam Wolf et.al.|[2304.11082](http://arxiv.org/abs/2304.11082)|**[link](https://github.com/yowolf/limitations-of-alignment-in-llms)**|
 
-<p align=right>(<a href=#updated-on-20241129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
