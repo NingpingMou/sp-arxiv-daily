@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**LUMIA: Linear probing for Unimodal and MultiModal Membership Inference A!acks leveraging internal LLM states**|Luis Ibanez-Lissen et.al.|[2411.19876](http://arxiv.org/abs/2411.19876)|null|
+|**2024-11-29**|**SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks**|Kim-Celine Kahl et.al.|[2411.19688](http://arxiv.org/abs/2411.19688)|**[link](https://github.com/iml-dkfz/sure-vqa)**|
+|**2024-11-29**|**Blurred LiDAR for Sharper 3D: Robust Handheld 3D Scanning with Diffuse LiDAR and RGB**|Nikhil Behari et.al.|[2411.19474](http://arxiv.org/abs/2411.19474)|null|
+|**2024-11-28**|**Beyond Logit Lens: Contextual Embeddings for Robust Hallucination Detection & Grounding in VLMs**|Anirudh Phukan et.al.|[2411.19187](http://arxiv.org/abs/2411.19187)|null|
+|**2024-11-28**|**Random Sampling for Diffusion-based Adversarial Purification**|Jiancheng Zhang et.al.|[2411.18956](http://arxiv.org/abs/2411.18956)|null|
 |**2024-11-26**|**A robust image encryption scheme based on new 4-D hyperchaotic system and elliptic curve**|Yehia Lalili et.al.|[2411.17643](http://arxiv.org/abs/2411.17643)|null|
 |**2024-11-26**|**A Generator of Neural Network Potential for Molecular Dynamics: Constructing Robust and Accurate Potentials with Active Learning for Nanosecond-scale Simulations**|Naoki Matsumura et.al.|[2411.17191](http://arxiv.org/abs/2411.17191)|null|
 |**2024-11-26**|**Learning Robust Anymodal Segmentor with Unimodal and Cross-modal Distillation**|Xu Zheng et.al.|[2411.17141](http://arxiv.org/abs/2411.17141)|**[link](https://github.com/zhengxuJosh/AnySeg)**|
@@ -55,7 +60,7 @@ layout: default
 |**2024-11-05**|**Gradient-Guided Conditional Diffusion Models for Private Image Reconstruction: Analyzing Adversarial Impacts of Differential Privacy and Denoising**|Tao Huang et.al.|[2411.03053](http://arxiv.org/abs/2411.03053)|null|
 |**2024-11-05**|**Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning**|Mingcheng Li et.al.|[2411.02793](http://arxiv.org/abs/2411.02793)|null|
 |**2024-11-04**|**Semantic-Aligned Adversarial Evolution Triangle for High-Transferability Vision-Language Attack**|Xiaojun Jia et.al.|[2411.02669](http://arxiv.org/abs/2411.02669)|**[link](https://github.com/jiaxiaojunqaq/sa-aet)**|
-|**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
+|**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|**[link](https://github.com/SALT-NLP/PopupAttack)**|
 |**2024-11-04**|**CleAR: Robust Context-Guided Generative Lighting Estimation for Mobile Augmented Reality**|Yiqin Zhao et.al.|[2411.02179](http://arxiv.org/abs/2411.02179)|null|
 |**2024-11-03**|**Rethinking Weight Decay for Robust Fine-Tuning of Foundation Models**|Junjiao Tian et.al.|[2411.01713](http://arxiv.org/abs/2411.01713)|**[link](https://github.com/gt-ripl/selective-projection-decay)**|
 |**2024-11-03**|**UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models**|Sejoon Oh et.al.|[2411.01703](http://arxiv.org/abs/2411.01703)|null|
@@ -171,17 +176,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-27**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
+|**2024-11-28**|**PEFT-as-an-Attack! Jailbreaking Language Models during Federated Parameter-Efficient Fine-Tuning**|Shenghui Li et.al.|[2411.19335](http://arxiv.org/abs/2411.19335)|null|
+|**2024-11-28**|**DIESEL -- Dynamic Inference-Guidance via Evasion of Semantic Embeddings in LLMs**|Ben Ganon et.al.|[2411.19038](http://arxiv.org/abs/2411.19038)|null|
+|**2024-11-27**|**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**|Soumya Suvra Ghosal et.al.|[2411.18688](http://arxiv.org/abs/2411.18688)|null|
+|**2024-11-28**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
 |**2024-11-25**|**In-Context Experience Replay Facilitates Safety Red-Teaming of Text-to-Image Diffusion Models**|Zhi-Yi Chin et.al.|[2411.16769](http://arxiv.org/abs/2411.16769)|null|
 |**2024-11-23**|**ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain**|Haochen Zhao et.al.|[2411.16736](http://arxiv.org/abs/2411.16736)|**[link](https://github.com/haochenzhao/safeagent4chem)**|
-|**2024-11-23**|**"Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks**|Libo Wang et.al.|[2411.16730](http://arxiv.org/abs/2411.16730)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
+|**2024-11-27**|**"Moralized" Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks**|Libo Wang et.al.|[2411.16730](http://arxiv.org/abs/2411.16730)|**[link](https://github.com/brucewang123456789/GeniusTrail)**|
 |**2024-11-23**|**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**|Han Wang et.al.|[2411.16721](http://arxiv.org/abs/2411.16721)|null|
 |**2024-11-22**|**Universal and Context-Independent Triggers for Precise Control of LLM Outputs**|Jiashuo Liang et.al.|[2411.14738](http://arxiv.org/abs/2411.14738)|null|
 |**2024-11-21**|**Global Challenge for Safe and Secure LLMs Track 1**|Xiaojun Jia et.al.|[2411.14502](http://arxiv.org/abs/2411.14502)|null|
 |**2024-11-21**|**GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs**|Advik Raj Basani et.al.|[2411.14133](http://arxiv.org/abs/2411.14133)|**[link](https://github.com/llm-gasp/gasp)**|
 |**2024-11-20**|**A Flexible Large Language Models Guardrail Development Methodology Applied to Off-Topic Prompt Detection**|Gabriel Chua et.al.|[2411.12946](http://arxiv.org/abs/2411.12946)|null|
 |**2024-11-27**|**Playing Language Game with LLMs Leads to Jailbreaking**|Yu Peng et.al.|[2411.12762](http://arxiv.org/abs/2411.12762)|null|
-|**2024-11-19**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|**[link](https://github.com/gzcch/safety_snowball_agent)**|
+|**2024-11-28**|**Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models**|Chenhang Cui et.al.|[2411.11496](http://arxiv.org/abs/2411.11496)|**[link](https://github.com/gzcch/safety_snowball_agent)**|
 |**2024-11-18**|**The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models**|Xikang Yang et.al.|[2411.11407](http://arxiv.org/abs/2411.11407)|**[link](https://github.com/YancyKahn/DarkCite)**|
 |**2024-11-18**|**Steering Language Model Refusal with Sparse Autoencoders**|Kyle O'Brien et.al.|[2411.11296](http://arxiv.org/abs/2411.11296)|null|
 |**2024-11-14**|**Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey**|Xuannan Liu et.al.|[2411.09259](http://arxiv.org/abs/2411.09259)|**[link](https://github.com/liuxuannan/awesome-multimodal-jailbreak)**|
@@ -254,7 +262,7 @@ layout: default
 |**2024-09-11**|**AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs**|Lijia Lv et.al.|[2409.07503](http://arxiv.org/abs/2409.07503)|**[link](https://github.com/yummy416/adappa)**|
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|null|
 |**2024-09-10**|**DiPT: Enhancing LLM reasoning through diversified perspective-taking**|Hoang Anh Just et.al.|[2409.06241](http://arxiv.org/abs/2409.06241)|null|
-|**2024-10-01**|**Conversational Complexity for Assessing Risk in Large Language Models**|John Burden et.al.|[2409.01247](http://arxiv.org/abs/2409.01247)|null|
+|**2024-11-29**|**Conversational Complexity for Assessing Risk in Large Language Models**|John Burden et.al.|[2409.01247](http://arxiv.org/abs/2409.01247)|null|
 |**2024-09-01**|**Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals in Large Language Models**|Bang An et.al.|[2409.00598](http://arxiv.org/abs/2409.00598)|**[link](https://github.com/umd-huang-lab/falserefusal)**|
 |**2024-09-05**|**Legilimens: Practical and Unified Content Moderation for Large Language Model Services**|Jialin Wu et.al.|[2408.15488](http://arxiv.org/abs/2408.15488)|**[link](https://github.com/lin000001/Legilimens)**|
 |**2024-09-04**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
@@ -460,7 +468,7 @@ layout: default
 |**2023-12-13**|**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**|Yichen Gong et.al.|[2311.05608](http://arxiv.org/abs/2311.05608)|**[link](https://github.com/thuccslab/figstep)**|
 |**2024-03-08**|**Can LLMs Follow Simple Rules?**|Norman Mu et.al.|[2311.04235](http://arxiv.org/abs/2311.04235)|**[link](https://github.com/normster/llm_rules)**|
 |**2023-11-24**|**Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation**|Rusheb Shah et.al.|[2311.03348](http://arxiv.org/abs/2311.03348)|null|
-|**2024-05-23**|**DeepInception: Hypnotize Large Language Model to Be Jailbreaker**|Xuan Li et.al.|[2311.03191](http://arxiv.org/abs/2311.03191)|**[link](https://github.com/tmlr-group/deepinception)**|
+|**2024-11-28**|**DeepInception: Hypnotize Large Language Model to Be Jailbreaker**|Xuan Li et.al.|[2311.03191](http://arxiv.org/abs/2311.03191)|**[link](https://github.com/tmlr-group/deepinception)**|
 |**2024-03-22**|**Self-Guard: Empower the LLM to Safeguard Itself**|Zezhong Wang et.al.|[2310.15851](http://arxiv.org/abs/2310.15851)|null|
 |**2023-12-14**|**AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models**|Sicheng Zhu et.al.|[2310.15140](http://arxiv.org/abs/2310.15140)|null|
 |**2023-11-13**|**Language Model Unalignment: Parametric Red-Teaming to Expose Hidden Harms and Biases**|Rishabh Bhardwaj et.al.|[2310.14303](http://arxiv.org/abs/2310.14303)|null|
