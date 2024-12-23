@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
@@ -394,7 +394,7 @@ layout: default
 |**2024-10-05**|**Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models**|Sarah Ball et.al.|[2406.09289](http://arxiv.org/abs/2406.09289)|**[link](https://github.com/s-ball-10/jailbreak_dynamics)**|
 |**2024-07-19**|**Exploiting Uncommon Text-Encoded Structures for Automated Jailbreaks in LLMs**|Bangxin Li et.al.|[2406.08754](http://arxiv.org/abs/2406.08754)|null|
 |**2024-06-13**|**RL-JACK: Reinforcement Learning-powered Black-box Jailbreaking Attack against LLMs**|Xuan Chen et.al.|[2406.08725](http://arxiv.org/abs/2406.08725)|null|
-|**2024-12-18**|**When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search**|Xuan Chen et.al.|[2406.08705](http://arxiv.org/abs/2406.08705)|null|
+|**2024-12-18**|**When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search**|Xuan Chen et.al.|[2406.08705](http://arxiv.org/abs/2406.08705)|**[link](https://github.com/ucsb-mlsec/rlbreaker)**|
 |**2024-12-06**|**MultiTrust: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models**|Yichi Zhang et.al.|[2406.07057](http://arxiv.org/abs/2406.07057)|null|
 |**2024-06-07**|**Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs**|Fan Liu et.al.|[2406.06622](http://arxiv.org/abs/2406.06622)|null|
 |**2024-06-13**|**How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States**|Zhenhong Zhou et.al.|[2406.05644](http://arxiv.org/abs/2406.05644)|**[link](https://github.com/ydyjya/llm-ihs-explanation)**|
