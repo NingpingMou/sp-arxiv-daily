@@ -51,7 +51,7 @@ layout: default
 |**2024-12-16**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727](http://arxiv.org/abs/2412.06727)|**[link](https://github.com/xcy-github/R2BA_Evade_AIGC_Detection)**|
 |**2024-12-09**|**Rendering-Refined Stable Diffusion for Privacy Compliant Synthetic Data**|Kartik Patwari et.al.|[2412.06248](http://arxiv.org/abs/2412.06248)|null|
 |**2024-12-08**|**Anti-Reference: Universal and Immediate Defense Against Reference-Based Generation**|Yiren Song et.al.|[2412.05980](http://arxiv.org/abs/2412.05980)|**[link](https://github.com/songyiren725/AntiReference)**|
-|**2024-12-08**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|null|
+|**2024-12-08**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|**[link](https://github.com/matengsysu/himrd-jailbreak)**|
 |**2024-12-07**|**Biological Brain Age Estimation using Sex-Aware Adversarial Variational Autoencoder with Multimodal Neuroimages**|Abd Ur Rehman et.al.|[2412.05632](http://arxiv.org/abs/2412.05632)|null|
 |**2024-12-15**|**FlowPolicy: Enabling Fast and Robust 3D Flow-based Policy via Consistency Flow Matching for Robot Manipulation**|Qinglun Zhang et.al.|[2412.04987](http://arxiv.org/abs/2412.04987)|**[link](https://github.com/zql-kk/flowpolicy)**|
 |**2024-12-06**|**SleeperMark: Towards Robust Watermark against Fine-Tuning Text-to-image Diffusion Models**|Zilan Wang et.al.|[2412.04852](http://arxiv.org/abs/2412.04852)|null|
@@ -178,7 +178,7 @@ layout: default
 |**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737](http://arxiv.org/abs/2410.01737)|null|
 |**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|Weijie Tu et.al.|[2410.01534](http://arxiv.org/abs/2410.01534)|null|
 |**2024-10-02**|**Backdooring Vision-Language Models with Out-Of-Distribution Data**|Weimin Lyu et.al.|[2410.01264](http://arxiv.org/abs/2410.01264)|null|
-|**2024-10-01**|**Robust Guided Diffusion for Offline Black-Box Optimization**|Can et.al.|[2410.00983](http://arxiv.org/abs/2410.00983)|null|
+|**2024-10-01**|**Robust Guided Diffusion for Offline Black-Box Optimization**|Can et.al.|[2410.00983](http://arxiv.org/abs/2410.00983)|**[link](https://github.com/ggchen1997/rgd)**|
 |**2024-09-30**|**Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning**|Weitai Kang et.al.|[2410.00255](http://arxiv.org/abs/2410.00255)|**[link](https://github.com/weitaikang/robin3d)**|
 |**2024-11-01**|**Towards Robust Multimodal Sentiment Analysis with Incomplete Data**|Haoyu Zhang et.al.|[2409.20012](http://arxiv.org/abs/2409.20012)|**[link](https://github.com/haoyu-ha/lnln)**|
 |**2024-09-30**|**RoCoTex: A Robust Method for Consistent Texture Synthesis with Diffusion Models**|Jangyeong Kim et.al.|[2409.19989](http://arxiv.org/abs/2409.19989)|null|
@@ -257,7 +257,7 @@ layout: default
 |**2024-12-10**|**FlexLLM: Exploring LLM Customization for Moving Target Defense on Black-Box LLMs Against Jailbreak Attacks**|Bocheng Chen et.al.|[2412.07672](http://arxiv.org/abs/2412.07672)|null|
 |**2024-12-10**|**PrisonBreak: Jailbreaking Large Language Models with Fewer Than Twenty-Five Targeted Bit-flips**|Zachary Coalson et.al.|[2412.07192](http://arxiv.org/abs/2412.07192)|null|
 |**2024-12-09**|**Enhancing Adversarial Resistance in LLMs with Recursion**|Bryan Li et.al.|[2412.06181](http://arxiv.org/abs/2412.06181)|null|
-|**2024-12-08**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|null|
+|**2024-12-08**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|**[link](https://github.com/matengsysu/himrd-jailbreak)**|
 |**2024-12-06**|**LIAR: Leveraging Alignment (Best-of-N) to Jailbreak LLMs in Seconds**|James Beetham et.al.|[2412.05232](http://arxiv.org/abs/2412.05232)|null|
 |**2024-12-04**|**Does Safety Training of LLMs Generalize to Semantically Related Natural Prompts?**|Sravanti Addepalli et.al.|[2412.03235](http://arxiv.org/abs/2412.03235)|null|
 |**2024-12-03**|**Trust & Safety of LLMs and LLMs in Trust & Safety**|Doohee You et.al.|[2412.02113](http://arxiv.org/abs/2412.02113)|null|
