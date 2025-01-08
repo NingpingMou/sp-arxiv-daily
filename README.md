@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Patterns robust to Disorder in spatially-interacting Generalized Lotka-Volterra Ecosystems**|Alessandro Salvatore et.al.|[2501.03809](http://arxiv.org/abs/2501.03809)|null|
+|**2025-01-06**|**Rapidity asymmetry of jet-hadron correlation as a robust signal of diffusion wake induced by di-jets in high-energy heavy-ion collisions**|Zhong Yang et.al.|[2501.03419](http://arxiv.org/abs/2501.03419)|null|
 |**2025-01-02**|**Image-based Multimodal Models as Intruders: Transferable Multimodal Attacks on Video-based MLLMs**|Linhao Huang et.al.|[2501.01042](http://arxiv.org/abs/2501.01042)|null|
 |**2025-01-01**|**Overlapping Schwarz methods are not anisotropy-robust multigrid smoothers**|Oliver A. Krzysik et.al.|[2501.00938](http://arxiv.org/abs/2501.00938)|null|
 |**2025-01-01**|**RORem: Training a Robust Object Remover with Human-in-the-Loop**|Ruibin Li et.al.|[2501.00740](http://arxiv.org/abs/2501.00740)|**[link](https://github.com/leeruibin/rorem)**|
@@ -30,7 +32,7 @@
 |**2024-12-22**|**RoboSignature: Robust Signature and Watermarking on Network Attacks**|Aryaman Shaan et.al.|[2412.19834](http://arxiv.org/abs/2412.19834)|**[link](https://github.com/garvitbanga/robosignature)**|
 |**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584](http://arxiv.org/abs/2412.18584)|null|
 |**2024-12-24**|**FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**|Jaechul Roh et.al.|[2412.18302](http://arxiv.org/abs/2412.18302)|null|
-|**2024-12-23**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522](http://arxiv.org/abs/2412.17522)|null|
+|**2025-01-05**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522](http://arxiv.org/abs/2412.17522)|null|
 |**2024-12-22**|**Adversarial Diffusion Model for Unsupervised Domain-Adaptive Semantic Segmentation**|Jongmin Yu et.al.|[2412.16859](http://arxiv.org/abs/2412.16859)|null|
 |**2024-12-21**|**TrojFlow: Flow Models are Natural Targets for Trojan Attacks**|Zhengyang Qi et.al.|[2412.16512](http://arxiv.org/abs/2412.16512)|null|
 |**2024-12-19**|**Web Privacy based on Contextual Integrity: Measuring the Collapse of Online Contexts**|Ido Sivan-Sevilla et.al.|[2412.16246](http://arxiv.org/abs/2412.16246)|null|
@@ -47,7 +49,7 @@
 |**2024-12-13**|**Dynamic Cross-Modal Alignment for Robust Semantic Location Prediction**|Liu Jing et.al.|[2412.09870](http://arxiv.org/abs/2412.09870)|null|
 |**2024-12-13**|**Real-time Identity Defenses against Malicious Personalization of Diffusion Models**|Hanzhong Guo et.al.|[2412.09844](http://arxiv.org/abs/2412.09844)|**[link](https://github.com/guohanzhong/rid)**|
 |**2024-12-12**|**Towards Robust and Fair Vision Learning in Open-World Environments**|Thanh-Dat Truong et.al.|[2412.09439](http://arxiv.org/abs/2412.09439)|null|
-|**2024-12-12**|**LVMark: Robust Watermark for latent video diffusion models**|MinHyuk Jang et.al.|[2412.09122](http://arxiv.org/abs/2412.09122)|null|
+|**2025-01-06**|**LVMark: Robust Watermark for latent video diffusion models**|MinHyuk Jang et.al.|[2412.09122](http://arxiv.org/abs/2412.09122)|null|
 |**2024-12-12**|**Width-independent and Robust Multimode Interference Waveguides Based on Anomalous Bulk States**|Lei Liu et.al.|[2412.09038](http://arxiv.org/abs/2412.09038)|null|
 |**2024-12-11**|**Antelope: Potent and Concealed Jailbreak Attack Strategy**|Xin Zhao et.al.|[2412.08156](http://arxiv.org/abs/2412.08156)|null|
 |**2024-12-19**|**Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation**|Hee-Seon Kim et.al.|[2412.08108](http://arxiv.org/abs/2412.08108)|null|
@@ -229,19 +231,21 @@
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
 |**2024-08-21**|**Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices**|Leila Taghizadeh et.al.|[2408.11485](http://arxiv.org/abs/2408.11485)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## Jailbreak
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**|Ziwei Zheng et.al.|[2501.02029](http://arxiv.org/abs/2501.02029)|null|
+|**2025-01-02**|**Safeguarding Large Language Models in Real-time with Tunable Safety-Performance Trade-offs**|Joao Fonseca et.al.|[2501.02018](http://arxiv.org/abs/2501.02018)|null|
 |**2025-01-03**|**Auto-RT: Automatic Jailbreak Strategy Exploration for Red-Teaming Large Language Models**|Yanjiang Liu et.al.|[2501.01830](http://arxiv.org/abs/2501.01830)|null|
 |**2025-01-02**|**CySecBench: Generative AI-based CyberSecurity-focused Prompt Dataset for Benchmarking Large Language Models**|Johan Wahréus et.al.|[2501.01335](http://arxiv.org/abs/2501.01335)|**[link](https://github.com/cysecbench/dataset)**|
 |**2024-12-28**|**LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models**|Miao Yu et.al.|[2501.00055](http://arxiv.org/abs/2501.00055)|**[link](https://github.com/Ymm-cll/LLM-Virus)**|
 |**2024-12-30**|**InfAlign: Inference-aware language model alignment**|Ananth Balashankar et.al.|[2412.19792](http://arxiv.org/abs/2412.19792)|null|
 |**2024-12-25**|**Token Highlighter: Inspecting and Mitigating Jailbreak Prompts for Large Language Models**|Xiaomeng Hu et.al.|[2412.18171](http://arxiv.org/abs/2412.18171)|null|
 |**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
-|**2024-12-23**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522](http://arxiv.org/abs/2412.17522)|null|
+|**2025-01-05**|**DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak**|Hao Wang et.al.|[2412.17522](http://arxiv.org/abs/2412.17522)|null|
 |**2024-12-22**|**Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models**|Lang Gao et.al.|[2412.17034](http://arxiv.org/abs/2412.17034)|null|
 |**2024-12-22**|**Robustness of Large Language Models Against Adversarial Attacks**|Yiyi Tao et.al.|[2412.17011](http://arxiv.org/abs/2412.17011)|null|
 |**2024-12-21**|**Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models**|Yanxu Mao et.al.|[2412.16555](http://arxiv.org/abs/2412.16555)|null|
@@ -420,7 +424,7 @@
 |**2024-06-21**|**From LLMs to MLLMs: Exploring the Landscape of Multimodal Jailbreaking**|Siyuan Wang et.al.|[2406.14859](http://arxiv.org/abs/2406.14859)|null|
 |**2024-06-19**|**ObscurePrompt: Jailbreaking Large Language Models via Obscure Input**|Yue Huang et.al.|[2406.13662](http://arxiv.org/abs/2406.13662)|**[link](https://github.com/HowieHwong/ObscurePrompt)**|
 |**2024-08-21**|**SHIELD: Evaluation and Defense Strategies for Copyright Compliance in LLM Text Generation**|Xiaoze Liu et.al.|[2406.12975](http://arxiv.org/abs/2406.12975)|**[link](https://github.com/xz-liu/shield)**|
-|**2024-06-17**|**ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates**|Fengqing Jiang et.al.|[2406.12935](http://arxiv.org/abs/2406.12935)|**[link](https://github.com/uw-nsl/ChatBug)**|
+|**2025-01-07**|**ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates**|Fengqing Jiang et.al.|[2406.12935](http://arxiv.org/abs/2406.12935)|**[link](https://github.com/uw-nsl/ChatBug)**|
 |**2024-06-21**|**[WIP] Jailbreak Paradox: The Achilles' Heel of LLMs**|Abhinav Rao et.al.|[2406.12702](http://arxiv.org/abs/2406.12702)|null|
 |**2024-10-30**|**Refusal in Language Models Is Mediated by a Single Direction**|Andy Arditi et.al.|[2406.11717](http://arxiv.org/abs/2406.11717)|**[link](https://github.com/andyrdt/refusal_direction)**|
 |**2024-06-17**|**"Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak**|Lingrui Mei et.al.|[2406.11668](http://arxiv.org/abs/2406.11668)|**[link](https://github.com/Meirtz/BabyBLUE-llm)**|
@@ -603,7 +607,7 @@
 |**2024-03-27**|**Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks**|Abhinav Rao et.al.|[2305.14965](http://arxiv.org/abs/2305.14965)|**[link](https://github.com/AetherPrior/TrickLLM)**|
 |**2024-06-03**|**Fundamental Limitations of Alignment in Large Language Models**|Yotam Wolf et.al.|[2304.11082](http://arxiv.org/abs/2304.11082)|**[link](https://github.com/yowolf/limitations-of-alignment-in-llms)**|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
