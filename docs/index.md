@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.01
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
@@ -183,7 +183,7 @@ layout: default
 |**2024-10-16**|**Efficient and Effective Universal Adversarial Attack against Vision-Language Pre-training Models**|Fan Yang et.al.|[2410.11639](http://arxiv.org/abs/2410.11639)|null|
 |**2024-10-15**|**Optimal network sizes for most robust Turing patterns**|Hazlam S. Ahmad Shaberi et.al.|[2410.11513](http://arxiv.org/abs/2410.11513)|null|
 |**2024-10-15**|**A CLIP-Powered Framework for Robust and Generalizable Data Selection**|Suorong Yang et.al.|[2410.11215](http://arxiv.org/abs/2410.11215)|null|
-|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|**[link](https://github.com/timbroed/cafuser)**|
 |**2024-10-14**|**Identity-Focused Inference and Extraction Attacks on Diffusion Models**|Jayneel Vora et.al.|[2410.10177](http://arxiv.org/abs/2410.10177)|null|
 |**2024-10-14**|**Generative Deep Learning and Signal Processing for Data Augmentation of Cardiac Auscultation Signals: Improving Model Robustness Using Synthetic Audio**|Leigh Abbott et.al.|[2410.10125](http://arxiv.org/abs/2410.10125)|null|
 |**2024-11-21**|**t-READi: Transformer-Powered Robust and Efficient Multimodal Inference for Autonomous Driving**|Pengfei Hu et.al.|[2410.09747](http://arxiv.org/abs/2410.09747)|null|
