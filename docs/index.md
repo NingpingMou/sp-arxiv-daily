@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
@@ -263,7 +263,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-28**|**Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation**|Daniel Schwartz et.al.|[2501.18638](http://arxiv.org/abs/2501.18638)|null|
 |**2025-01-27**|**Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare**|Hang Zhang et.al.|[2501.18632](http://arxiv.org/abs/2501.18632)|null|
-|**2025-01-27**|**The TIP of the Iceberg: Revealing a Hidden Class of Task-In-Prompt Adversarial Attacks on LLMs**|Sergey Berezin et.al.|[2501.18626](http://arxiv.org/abs/2501.18626)|null|
+|**2025-02-03**|**The TIP of the Iceberg: Revealing a Hidden Class of Task-In-Prompt Adversarial Attacks on LLMs**|Sergey Berezin et.al.|[2501.18626](http://arxiv.org/abs/2501.18626)|null|
 |**2025-01-30**|**Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models**|Haoyu Liang et.al.|[2501.18280](http://arxiv.org/abs/2501.18280)|null|
 |**2025-01-30**|**xJailbreak: Representation Space Guided Reinforcement Learning for Interpretable LLM Jailbreaking**|Sunbowen Lee et.al.|[2501.16727](http://arxiv.org/abs/2501.16727)|**[link](https://github.com/aegis1863/xjailbreak)**|
 |**2025-01-27**|**Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs**|Jean-Charles Noirot Ferrand et.al.|[2501.16534](http://arxiv.org/abs/2501.16534)|null|
@@ -344,7 +344,7 @@ layout: default
 |**2024-11-02**|**What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks**|Nathalie Maria Kirch et.al.|[2411.03343](http://arxiv.org/abs/2411.03343)|**[link](https://github.com/NLie2/what_features_jailbreak_LLMs)**|
 |**2024-12-05**|**Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment**|Jason Vega et.al.|[2411.02785](http://arxiv.org/abs/2411.02785)|**[link](https://github.com/uiuc-focal-lab/stochastic-monkeys)**|
 |**2025-01-31**|**UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models**|Sejoon Oh et.al.|[2411.01703](http://arxiv.org/abs/2411.01703)|null|
-|**2024-12-10**|**SQL Injection Jailbreak: a structural disaster of large language models**|Jiawei Zhao et.al.|[2411.01565](http://arxiv.org/abs/2411.01565)|**[link](https://github.com/weiyezhimeng/sql-injection-jailbreak)**|
+|**2025-02-03**|**SQL Injection Jailbreak: A Structural Disaster of Large Language Models**|Jiawei Zhao et.al.|[2411.01565](http://arxiv.org/abs/2411.01565)|**[link](https://github.com/weiyezhimeng/sql-injection-jailbreak)**|
 |**2024-11-01**|**Emoji Attack: A Method for Misleading Judge LLMs in Safety Risk Detection**|Zhipeng Wei et.al.|[2411.01077](http://arxiv.org/abs/2411.01077)|**[link](https://github.com/zhipeng-wei/EmojiAttack)**|
 |**2024-11-15**|**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**|Ruofan Wang et.al.|[2411.00827](http://arxiv.org/abs/2411.00827)|null|
 |**2024-11-26**|**Desert Camels and Oil Sheikhs: Arab-Centric Red Teaming of Frontier LLMs**|Muhammed Saeed et.al.|[2410.24049](http://arxiv.org/abs/2410.24049)|null|
@@ -392,7 +392,7 @@ layout: default
 |**2024-10-02**|**FlipAttack: Jailbreak LLMs via Flipping**|Yue Liu et.al.|[2410.02832](http://arxiv.org/abs/2410.02832)|**[link](https://github.com/yueliu1999/flipattack)**|
 |**2024-10-07**|**Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models**|Guobin Shen et.al.|[2410.02298](http://arxiv.org/abs/2410.02298)|null|
 |**2024-12-18**|**Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks**|Xiaoqun Liu et.al.|[2410.02220](http://arxiv.org/abs/2410.02220)|null|
-|**2024-10-02**|**Information-Theoretical Principled Trade-off between Jailbreakability and Stealthiness on Vision Language Models**|Ching-Chia Kao et.al.|[2410.01438](http://arxiv.org/abs/2410.01438)|null|
+|**2025-02-02**|**The Great Contradiction Showdown: How Jailbreak and Stealth Wrestle in Vision-Language Models?**|Ching-Chia Kao et.al.|[2410.01438](http://arxiv.org/abs/2410.01438)|null|
 |**2024-12-19**|**Unleashing the Unseen: Harnessing Benign Datasets for Jailbreaking Large Language Models**|Wei Zhao et.al.|[2410.00451](http://arxiv.org/abs/2410.00451)|**[link](https://github.com/suffix-maybe-feature/adver-suffix-maybe-features)**|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 |**2024-09-27**|**Multimodal Pragmatic Jailbreak on Text-to-image Models**|Tong Liu et.al.|[2409.19149](http://arxiv.org/abs/2409.19149)|null|
@@ -468,7 +468,7 @@ layout: default
 |**2025-01-07**|**ChatBug: A Common Vulnerability of Aligned LLMs Induced by Chat Templates**|Fengqing Jiang et.al.|[2406.12935](http://arxiv.org/abs/2406.12935)|**[link](https://github.com/uw-nsl/ChatBug)**|
 |**2024-06-21**|**[WIP] Jailbreak Paradox: The Achilles' Heel of LLMs**|Abhinav Rao et.al.|[2406.12702](http://arxiv.org/abs/2406.12702)|null|
 |**2024-10-30**|**Refusal in Language Models Is Mediated by a Single Direction**|Andy Arditi et.al.|[2406.11717](http://arxiv.org/abs/2406.11717)|**[link](https://github.com/andyrdt/refusal_direction)**|
-|**2024-06-17**|**"Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak**|Lingrui Mei et.al.|[2406.11668](http://arxiv.org/abs/2406.11668)|**[link](https://github.com/Meirtz/BabyBLUE-llm)**|
+|**2025-02-03**|**"Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak**|Lingrui Mei et.al.|[2406.11668](http://arxiv.org/abs/2406.11668)|**[link](https://github.com/Meirtz/BabyBLUE-llm)**|
 |**2024-06-16**|**Threat Modelling and Risk Analysis for Large Language Model (LLM)-Powered Applications**|Stephen Burabari Tete et.al.|[2406.11007](http://arxiv.org/abs/2406.11007)|null|
 |**2024-12-02**|**Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis**|Yuping Lin et.al.|[2406.10794](http://arxiv.org/abs/2406.10794)|**[link](https://github.com/yuplin2333/representation-space-jailbreak)**|
 |**2024-11-06**|**Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs**|Zhao Xu et.al.|[2406.09324](http://arxiv.org/abs/2406.09324)|**[link](https://github.com/usail-hkust/jailtrickbench)**|
