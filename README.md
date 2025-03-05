@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.03
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-02-27**|**SAP-DIFF: Semantic Adversarial Patch Generation for Black-Box Face Recognition Models via Diffusion Models**|Mingsi Wang et.al.|[2502.19710](http://arxiv.org/abs/2502.19710)|null|
 |**2025-02-27**|**Improving Adversarial Transferability in MLLMs via Dynamic Vision-Language Alignment Attack**|Chenhe Gu et.al.|[2502.19672](http://arxiv.org/abs/2502.19672)|null|
 |**2025-02-26**|**Neural Antidote: Class-Wise Prompt Tuning for Purifying Backdoors in Pre-trained Vision-Language Models**|Jiawei Kong et.al.|[2502.19269](http://arxiv.org/abs/2502.19269)|null|
-|**2025-02-26**|**A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models**|Vu Tuan Truong Long et.al.|[2502.19047](http://arxiv.org/abs/2502.19047)|null|
+|**2025-03-02**|**A Dual-Purpose Framework for Backdoor Defense and Backdoor Amplification in Diffusion Models**|Vu Tuan Truong et.al.|[2502.19047](http://arxiv.org/abs/2502.19047)|null|
 |**2025-02-25**|**Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking**|Changyuan Zhao et.al.|[2502.18118](http://arxiv.org/abs/2502.18118)|null|
 |**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|null|
 |**2025-02-25**|**VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution**|Rui Lu et.al.|[2502.17880](http://arxiv.org/abs/2502.17880)|null|
@@ -317,7 +317,7 @@
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
 |**2024-08-21**|**Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices**|Leila Taghizadeh et.al.|[2408.11485](http://arxiv.org/abs/2408.11485)|null|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Jailbreak
 
@@ -505,7 +505,7 @@
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 |**2024-09-27**|**Multimodal Pragmatic Jailbreak on Text-to-image Models**|Tong Liu et.al.|[2409.19149](http://arxiv.org/abs/2409.19149)|null|
 |**2024-09-26**|**RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking**|Yifan Jiang et.al.|[2409.17458](http://arxiv.org/abs/2409.17458)|**[link](https://github.com/kriti-hippo/red_queen)**|
-|**2025-02-24**|**PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
+|**2025-03-03**|**PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs**|Xueluan Gong et.al.|[2409.14866](http://arxiv.org/abs/2409.14866)|**[link](https://github.com/aaFrostnova/Papillon)**|
 |**2024-10-03**|**PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach**|Zhihao Lin et.al.|[2409.14177](http://arxiv.org/abs/2409.14177)|null|
 |**2024-11-05**|**Jailbreaking Large Language Models with Symbolic Mathematics**|Emet Bethany et.al.|[2409.11445](http://arxiv.org/abs/2409.11445)|null|
 |**2024-10-19**|**Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks**|Benji Peng et.al.|[2409.08087](http://arxiv.org/abs/2409.08087)|null|
@@ -563,6 +563,7 @@
 |**2024-07-03**|**Soft Begging: Modular and Efficient Shielding of LLMs against Prompt Injection and Jailbreaking based on Prompt Tuning**|Simon Ostermann et.al.|[2407.03391](http://arxiv.org/abs/2407.03391)|null|
 |**2024-07-03**|**SOS! Soft Prompt Attack Against Open-Source Large Language Models**|Ziqing Yang et.al.|[2407.03160](http://arxiv.org/abs/2407.03160)|null|
 |**2024-07-03**|**JailbreakHunter: A Visual Analytics Approach for Jailbreak Prompts Discovery from Large-Scale Human-LLM Conversational Datasets**|Zhihua Jin et.al.|[2407.03045](http://arxiv.org/abs/2407.03045)|null|
+|**2025-03-02**|**SeqAR: Jailbreak LLMs with Sequential Auto-Generated Characters**|Yan Yang et.al.|[2407.01902](http://arxiv.org/abs/2407.01902)|**[link](https://github.com/yang-yan-yang-yan/sop)**|
 |**2024-07-25**|**JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models**|Haibo Jin et.al.|[2407.01599](http://arxiv.org/abs/2407.01599)|**[link](https://github.com/allen-piexl/jailbreakzoo)**|
 |**2025-02-18**|**Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement**|Zisu Huang et.al.|[2407.01461](http://arxiv.org/abs/2407.01461)|**[link](https://github.com/huangzisu/query-refinement)**|
 |**2024-09-23**|**Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks**|Yue Zhou et.al.|[2407.00869](http://arxiv.org/abs/2407.00869)|**[link](https://github.com/Yue-LLM-Pit/FFA)**|
@@ -647,7 +648,7 @@
 |**2024-10-07**|**Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks**|Maksym Andriushchenko et.al.|[2404.02151](http://arxiv.org/abs/2404.02151)|**[link](https://github.com/tml-epfl/llm-adaptive-attacks)**|
 |**2025-02-26**|**Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack**|Mark Russinovich et.al.|[2404.01833](http://arxiv.org/abs/2404.01833)|null|
 |**2024-10-31**|**JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models**|Patrick Chao et.al.|[2404.01318](http://arxiv.org/abs/2404.01318)|**[link](https://github.com/jailbreakbench/jailbreakbench)**|
-|**2024-11-15**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|**[link](https://github.com/shijiawenwen/judgedeceiver)**|
+|**2025-03-03**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|**[link](https://github.com/shijiawenwen/judgedeceiver)**|
 |**2024-09-30**|**Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models**|Zhiyuan Yu et.al.|[2403.17336](http://arxiv.org/abs/2403.17336)|null|
 |**2024-03-22**|**Risk and Response in Large Language Models: Evaluating Key Threat Categories**|Bahareh Harandizadeh et.al.|[2403.14988](http://arxiv.org/abs/2403.14988)|null|
 |**2024-07-23**|**RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content**|Zhuowen Yuan et.al.|[2403.13031](http://arxiv.org/abs/2403.13031)|**[link](https://github.com/eurekayuan/rigorllm)**|
@@ -757,7 +758,7 @@
 |**2024-03-27**|**Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks**|Abhinav Rao et.al.|[2305.14965](http://arxiv.org/abs/2305.14965)|**[link](https://github.com/AetherPrior/TrickLLM)**|
 |**2024-06-03**|**Fundamental Limitations of Alignment in Large Language Models**|Yotam Wolf et.al.|[2304.11082](http://arxiv.org/abs/2304.11082)|**[link](https://github.com/yowolf/limitations-of-alignment-in-llms)**|
 
-<p align=right>(<a href=#updated-on-20250303>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
