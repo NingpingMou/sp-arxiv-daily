@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.10
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2025-03-05**|**GuardDoor: Safeguarding Against Malicious Diffusion Editing via Protective Backdoors**|Yaopei Zeng et.al.|[2503.03944](http://arxiv.org/abs/2503.03944)|null|
 |**2025-03-06**|**DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering**|Jingzhou Luo et.al.|[2503.03190](http://arxiv.org/abs/2503.03190)|**[link](https://github.com/LZ-CH/DSPNet)**|
 |**2025-03-03**|**Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection**|Boyong He et.al.|[2503.02101](http://arxiv.org/abs/2503.02101)|null|
-|**2025-03-03**|**Recurrence-Enhanced Vision-and-Language Transformers for Robust Multimodal Document Retrieval**|Davide Caffagni et.al.|[2503.01980](http://arxiv.org/abs/2503.01980)|null|
+|**2025-03-03**|**Recurrence-Enhanced Vision-and-Language Transformers for Robust Multimodal Document Retrieval**|Davide Caffagni et.al.|[2503.01980](http://arxiv.org/abs/2503.01980)|**[link](https://github.com/aimagelab/ret)**|
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
 |**2025-03-03**|**Divide and Conquer: Heterogeneous Noise Integration for Diffusion-based Adversarial Purification**|Gaozheng Pei et.al.|[2503.01407](http://arxiv.org/abs/2503.01407)|null|
 |**2025-03-01**|**AI-Augmented Thyroid Scintigraphy for Robust Classification**|Maziar Sabouri et.al.|[2503.00366](http://arxiv.org/abs/2503.00366)|null|
@@ -189,7 +189,7 @@
 |**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937](http://arxiv.org/abs/2411.14937)|**[link](https://github.com/HKU-TASR/Geminio)**|
 |**2024-11-22**|**TrojanEdit: Backdooring Text-Based Image Editing Models**|Ji Guo et.al.|[2411.14681](http://arxiv.org/abs/2411.14681)|null|
 |**2024-11-21**|**Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field**|Lan Jiang et.al.|[2411.14418](http://arxiv.org/abs/2411.14418)|null|
-|**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
+|**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|**[link](https://github.com/guaishou74851/adcsr)**|
 |**2024-11-27**|**Combinational Backdoor Attack against Customized Text-to-Image Models**|Wenbo Jiang et.al.|[2411.12389](http://arxiv.org/abs/2411.12389)|null|
 |**2024-11-19**|**RoSIS: Robust Framework for Text-Promptable Surgical Instrument Segmentation Using Vision-Language Fusion**|Tae-Min Choi et.al.|[2411.12199](http://arxiv.org/abs/2411.12199)|null|
 |**2024-11-18**|**Parallelly Tempered Generative Adversarial Networks**|Jinwon Sohn et.al.|[2411.11786](http://arxiv.org/abs/2411.11786)|null|
@@ -326,15 +326,15 @@
 |**2024-09-02**|**Instant Adversarial Purification with Adversarial Consistency Distillation**|Chun Tong Lei et.al.|[2408.17064](http://arxiv.org/abs/2408.17064)|null|
 |**2024-08-21**|**Bayesian inversion for the identification of the doping profile in unipolar semiconductor devices**|Leila Taghizadeh et.al.|[2408.11485](http://arxiv.org/abs/2408.11485)|null|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 ## Jailbreak
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
+|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|**[link](https://github.com/wicai24/door-alignment)**|
 |**2025-03-02**|**Unnatural Languages Are Not Bugs but Features for LLMs**|Keyu Duan et.al.|[2503.01926](http://arxiv.org/abs/2503.01926)|null|
-|**2025-02-25**|**Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints**|Junxiao Yang et.al.|[2503.01865](http://arxiv.org/abs/2503.01865)|null|
+|**2025-02-25**|**Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints**|Junxiao Yang et.al.|[2503.01865](http://arxiv.org/abs/2503.01865)|**[link](https://github.com/thu-coai/TransferAttack)**|
 |**2025-03-03**|**Jailbreaking Safeguarded Text-to-Image Models via Large Language Models**|Zhengyuan Jiang et.al.|[2503.01839](http://arxiv.org/abs/2503.01839)|null|
 |**2025-02-28**|**À la recherche du sens perdu: your favourite LLM might have more to say than you can understand**|K. O. T. Erziev et.al.|[2503.00224](http://arxiv.org/abs/2503.00224)|**[link](https://github.com/l3g5/llm-hidden-meanings)**|
 |**2025-02-25**|**from Benign import Toxic: Jailbreaking the Language Model via Adversarial Metaphors**|Yu Yan et.al.|[2503.00038](http://arxiv.org/abs/2503.00038)|null|
@@ -356,7 +356,7 @@
 |**2025-02-19**|**Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region**|Chak Tou Leong et.al.|[2502.13946](http://arxiv.org/abs/2502.13946)|null|
 |**2025-02-25**|**Efficient Safety Retrofitting Against Jailbreaking for LLMs**|Dario Garcia-Gasulla et.al.|[2502.13603](http://arxiv.org/abs/2502.13603)|null|
 |**2025-02-16**|**ShieldLearner: A New Paradigm for Jailbreak Attack Defense in LLMs**|Ziyi Ni et.al.|[2502.13162](http://arxiv.org/abs/2502.13162)|null|
-|**2025-02-18**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970](http://arxiv.org/abs/2502.12970)|null|
+|**2025-02-18**|**Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking**|Junda Zhu et.al.|[2502.12970](http://arxiv.org/abs/2502.12970)|**[link](https://github.com/chuhac/Reasoning-to-Defend)**|
 |**2025-02-18**|**SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**|Shenao Wang et.al.|[2502.12497](http://arxiv.org/abs/2502.12497)|null|
 |**2025-02-17**|**DELMAN: Dynamic Defense Against Large Language Model Jailbreaking with Model Editing**|Yi Wang et.al.|[2502.11647](http://arxiv.org/abs/2502.11647)|null|
 |**2025-02-17**|**Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training**|Fenghua Weng et.al.|[2502.11455](http://arxiv.org/abs/2502.11455)|null|
@@ -773,7 +773,7 @@
 |**2024-03-27**|**Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks**|Abhinav Rao et.al.|[2305.14965](http://arxiv.org/abs/2305.14965)|**[link](https://github.com/AetherPrior/TrickLLM)**|
 |**2024-06-03**|**Fundamental Limitations of Alignment in Large Language Models**|Yotam Wolf et.al.|[2304.11082](http://arxiv.org/abs/2304.11082)|**[link](https://github.com/yowolf/limitations-of-alignment-in-llms)**|
 
-<p align=right>(<a href=#updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250317>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
