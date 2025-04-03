@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
@@ -25,7 +25,7 @@ layout: default
 |**2025-03-24**|**DiN: Diffusion Model for Robust Medical VQA with Semantic Noisy Labels**|Erjian Guo et.al.|[2503.18536](http://arxiv.org/abs/2503.18536)|null|
 |**2025-03-23**|**Model-Guardian: Protecting against Data-Free Model Stealing Using Gradient Representations and Deceptive Predictions**|Yunfei Yang et.al.|[2503.18081](http://arxiv.org/abs/2503.18081)|null|
 |**2025-03-22**|**Towards Invisible Backdoor Attack on Text-to-Image Diffusion Model**|Jie Zhang et.al.|[2503.17724](http://arxiv.org/abs/2503.17724)|**[link](https://github.com/robin-wzq/iba)**|
-|**2025-03-21**|**Lie Detector: Unified Backdoor Detection via Cross-Examination Framework**|Xuan Wang et.al.|[2503.16872](http://arxiv.org/abs/2503.16872)|null|
+|**2025-04-01**|**Lie Detector: Unified Backdoor Detection via Cross-Examination Framework**|Xuan Wang et.al.|[2503.16872](http://arxiv.org/abs/2503.16872)|null|
 |**2025-03-20**|**Depth Matters: Multimodal RGB-D Perception for Robust Autonomous Agents**|Mihaela-Larisa Clement et.al.|[2503.16711](http://arxiv.org/abs/2503.16711)|**[link](https://github.com/clementlarisa/multimodal-rgbd-agents)**|
 |**2025-03-18**|**Survey of Adversarial Robustness in Multimodal Large Language Models**|Chengze Jiang et.al.|[2503.13962](http://arxiv.org/abs/2503.13962)|null|
 |**2025-03-24**|**MOSAIC: Generating Consistent, Privacy-Preserving Scenes from Multiple Depth Views in Multi-Room Environments**|Zhixuan Liu et.al.|[2503.13816](http://arxiv.org/abs/2503.13816)|null|
@@ -33,7 +33,7 @@ layout: default
 |**2025-03-17**|**FNSE-SBGAN: Far-field Speech Enhancement with Schrodinger Bridge and Generative Adversarial Networks**|Tong Lei et.al.|[2503.12936](http://arxiv.org/abs/2503.12936)|**[link](https://github.com/Taltt/FNSE-SBGAN)**|
 |**2025-03-26**|**Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis**|Hongyu Sun et.al.|[2503.12150](http://arxiv.org/abs/2503.12150)|**[link](https://github.com/auniquesun/point-cache)**|
 |**2025-03-15**|**Winning the MIDST Challenge: New Membership Inference Attacks on Diffusion Models for Tabular Data Synthesis**|Xiaoyu Wu et.al.|[2503.12008](http://arxiv.org/abs/2503.12008)|**[link](https://github.com/nicholas0228/tartan_federer_midst)**|
-|**2025-03-15**|**Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder**|Wonwoong Cho et.al.|[2503.11937](http://arxiv.org/abs/2503.11937)|null|
+|**2025-04-01**|**Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder**|Wonwoong Cho et.al.|[2503.11937](http://arxiv.org/abs/2503.11937)|null|
 |**2025-03-14**|**Visualizing Thought: Conceptual Diagrams Enable Robust Planning in LMMs**|Nasim Borazjanizadeh et.al.|[2503.11790](http://arxiv.org/abs/2503.11790)|null|
 |**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|**[link](https://github.com/hongbin98/drivegen)**|
 |**2025-03-13**|**ChatGPT Encounters Morphing Attack Detection: Zero-Shot MAD with Multi-Modal Large Language Models and General Vision Models**|Haoyu Zhang et.al.|[2503.10937](http://arxiv.org/abs/2503.10937)|null|
@@ -599,7 +599,7 @@ layout: default
 |**2024-10-05**|**Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models**|Hongfu Liu et.al.|[2408.14866](http://arxiv.org/abs/2408.14866)|**[link](https://github.com/Waffle-Liu/DeGCG)**|
 |**2025-02-16**|**Atoxia: Red-teaming Large Language Models with Target Toxic Answers**|Yuhao Du et.al.|[2408.14853](http://arxiv.org/abs/2408.14853)|null|
 |**2024-09-14**|**Efficient Detection of Toxic Prompts in Large Language Models**|Yi Liu et.al.|[2408.11727](http://arxiv.org/abs/2408.11727)|null|
-|**2024-08-21**|**Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer**|Weipeng Jiang et.al.|[2408.11313](http://arxiv.org/abs/2408.11313)|**[link](https://github.com/lenijwp/eclipse)**|
+|**2025-04-02**|**An Optimizable Suffix Is Worth A Thousand Templates: Efficient Black-box Jailbreaking without Affirmative Phrases via LLM as Optimizer**|Weipeng Jiang et.al.|[2408.11313](http://arxiv.org/abs/2408.11313)|**[link](https://github.com/lenijwp/eclipse)**|
 |**2024-08-21**|**EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models**|Chongwen Zhao et.al.|[2408.11308](http://arxiv.org/abs/2408.11308)|null|
 |**2025-02-07**|**Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Carrier Articles**|Zhilong Wang et.al.|[2408.11182](http://arxiv.org/abs/2408.11182)|null|
 |**2025-01-02**|**Security Attacks on LLM-based Code Completion Tools**|Wen Cheng et.al.|[2408.11006](http://arxiv.org/abs/2408.11006)|**[link](https://github.com/sensente/security-attacks-on-lccts)**|
