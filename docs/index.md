@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.19
+## Updated on 2025.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Multimodal security and privacy
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**|Mingxing Peng et.al.|[2505.11247](http://arxiv.org/abs/2505.11247)|null|
+|**2025-05-16**|**WildDoc: How Far Are We from Achieving Comprehensive and Robust Document Understanding in the Wild?**|An-Lan Wang et.al.|[2505.11015](http://arxiv.org/abs/2505.11015)|null|
+|**2025-05-16**|**Towards Robust and Controllable Text-to-Motion via Masked Autoregressive Diffusion**|Zongye Zhang et.al.|[2505.11013](http://arxiv.org/abs/2505.11013)|null|
+|**2025-05-14**|**Robust Photo-Realistic Hand Gesture Generation: from Single View to Multiple View**|Qifan Fu et.al.|[2505.10576](http://arxiv.org/abs/2505.10576)|null|
 |**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609](http://arxiv.org/abs/2505.09609)|null|
 |**2025-05-12**|**MixBridge: Heterogeneous Image-to-Image Backdoor Attack through Mixture of Schrödinger Bridges**|Shixi Qin et.al.|[2505.08809](http://arxiv.org/abs/2505.08809)|**[link](https://github.com/qsx830/mixbridge)**|
 |**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
@@ -42,7 +46,7 @@ layout: default
 |**2025-04-29**|**Erased but Not Forgotten: How Backdoors Compromise Concept Erasure**|Jonas Henry Grebe et.al.|[2504.21072](http://arxiv.org/abs/2504.21072)|null|
 |**2025-04-29**|**Conformal-DP: Differential Privacy on Riemannian Manifolds via Conformal Transformation**|Peilin He et.al.|[2504.20941](http://arxiv.org/abs/2504.20941)|null|
 |**2025-04-29**|**TriniMark: A Robust Generative Speech Watermarking Method for Trinity-Level Attribution**|Yue Li et.al.|[2504.20532](http://arxiv.org/abs/2504.20532)|null|
-|**2025-04-29**|**Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models**|Zhongqi Wang et.al.|[2504.20518](http://arxiv.org/abs/2504.20518)|null|
+|**2025-05-17**|**Dynamic Attention Analysis for Backdoor Detection in Text-to-Image Diffusion Models**|Zhongqi Wang et.al.|[2504.20518](http://arxiv.org/abs/2504.20518)|null|
 |**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876](http://arxiv.org/abs/2504.19876)|**[link](https://github.com/mamadou-keita/deeclip)**|
 |**2025-04-28**|**Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities**|Xi Fu et.al.|[2504.19596](http://arxiv.org/abs/2504.19596)|null|
 |**2025-04-27**|**PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies**|Jialiang Zhao et.al.|[2504.19341](http://arxiv.org/abs/2504.19341)|null|
@@ -461,6 +465,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
+|**2025-05-16**|**LARGO: Latent Adversarial Reflection through Gradient Optimization for Jailbreaking LLMs**|Ran Li et.al.|[2505.10838](http://arxiv.org/abs/2505.10838)|null|
 |**2025-05-15**|**Dark LLMs: The Growing Threat of Unaligned AI Models**|Michael Fire et.al.|[2505.10066](http://arxiv.org/abs/2505.10066)|null|
 |**2025-05-16**|**PIG: Privacy Jailbreak Attack on LLMs via Gradient-based Iterative In-Context Optimization**|Yidan Wang et.al.|[2505.09921](http://arxiv.org/abs/2505.09921)|**[link](https://github.com/redwyd/privacyjailbreak)**|
 |**2025-05-14**|**Adversarial Attack on Large Language Models using Exponentiated Gradient Descent**|Sajib Biswas et.al.|[2505.09820](http://arxiv.org/abs/2505.09820)|**[link](https://github.com/sbamit/exponentiated-gradient-descent-llm-attack)**|
@@ -589,7 +595,7 @@ layout: default
 |**2025-01-28**|**Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation**|Daniel Schwartz et.al.|[2501.18638](http://arxiv.org/abs/2501.18638)|null|
 |**2025-03-04**|**Towards Safe AI Clinicians: A Comprehensive Study on Large Language Model Jailbreaking in Healthcare**|Hang Zhang et.al.|[2501.18632](http://arxiv.org/abs/2501.18632)|null|
 |**2025-02-04**|**The TIP of the Iceberg: Revealing a Hidden Class of Task-in-Prompt Adversarial Attacks on LLMs**|Sergey Berezin et.al.|[2501.18626](http://arxiv.org/abs/2501.18626)|null|
-|**2025-02-10**|**Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models**|Haoyu Liang et.al.|[2501.18280](http://arxiv.org/abs/2501.18280)|null|
+|**2025-05-17**|**Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models**|Haoyu Liang et.al.|[2501.18280](http://arxiv.org/abs/2501.18280)|null|
 |**2025-01-30**|**xJailbreak: Representation Space Guided Reinforcement Learning for Interpretable LLM Jailbreaking**|Sunbowen Lee et.al.|[2501.16727](http://arxiv.org/abs/2501.16727)|**[link](https://github.com/aegis1863/xjailbreak)**|
 |**2025-01-27**|**Targeting Alignment: Extracting Safety Classifiers of Aligned LLMs**|Jean-Charles Noirot Ferrand et.al.|[2501.16534](http://arxiv.org/abs/2501.16534)|null|
 |**2025-01-27**|**Smoothed Embeddings for Robust Language Models**|Ryo Hase et.al.|[2501.16497](http://arxiv.org/abs/2501.16497)|null|
@@ -825,7 +831,7 @@ layout: default
 |**2024-05-30**|**Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters**|Haibo Jin et.al.|[2405.20413](http://arxiv.org/abs/2405.20413)|null|
 |**2024-10-17**|**TAIA: Large Language Models are Out-of-Distribution Data Learners**|Shuyang Jiang et.al.|[2405.20192](http://arxiv.org/abs/2405.20192)|**[link](https://github.com/pixas/TAIA_LLM)**|
 |**2024-05-30**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
-|**2024-05-30**|**Efficient LLM-Jailbreaking by Introducing Visual Modality**|Zhenxing Niu et.al.|[2405.20015](http://arxiv.org/abs/2405.20015)|null|
+|**2025-05-17**|**Efficient Indirect LLM Jailbreak via Multimodal-LLM Jailbreak**|Zhenxing Niu et.al.|[2405.20015](http://arxiv.org/abs/2405.20015)|null|
 |**2024-05-31**|**Robustifying Safety-Aligned Large Language Models through Clean Data Curation**|Xiaoqun Liu et.al.|[2405.19358](http://arxiv.org/abs/2405.19358)|null|
 |**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
 |**2025-04-21**|**Certifying Counterfactual Bias in LLMs**|Isha Chaudhary et.al.|[2405.18780](http://arxiv.org/abs/2405.18780)|**[link](https://github.com/uiuc-focal-lab/quacer-b)**|
