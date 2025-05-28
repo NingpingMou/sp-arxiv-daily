@@ -18,6 +18,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Subgroups Matter for Robust Bias Mitigation**|Anissa Alloula et.al.|[2505.21363](http://arxiv.org/abs/2505.21363)|null|
+|**2025-05-27**|**Unveiling Impact of Frequency Components on Membership Inference Attacks for Diffusion Models**|Puwei Lian et.al.|[2505.20955](http://arxiv.org/abs/2505.20955)|null|
+|**2025-05-27**|**NatADiff: Adversarial Boundary Guidance for Natural Adversarial Diffusion**|Max Collins et.al.|[2505.20934](http://arxiv.org/abs/2505.20934)|null|
+|**2025-05-26**|**MMPerspective: Do MLLMs Understand Perspective? A Comprehensive Benchmark for Perspective Perception, Reasoning, and Robustness**|Yunlong Tang et.al.|[2505.20426](http://arxiv.org/abs/2505.20426)|**[link](https://github.com/yunlong10/MMPerspective)**|
 |**2025-05-26**|**VisCRA: A Visual Chain Reasoning Attack for Jailbreaking Multimodal Large Language Models**|Bingrui Sima et.al.|[2505.19684](http://arxiv.org/abs/2505.19684)|null|
 |**2025-05-25**|**TextDiffuser-RL: Efficient and Robust Text Layout Optimization for High-Fidelity Text-to-Image Synthesis**|Kazi Mahathir Rahman et.al.|[2505.19291](http://arxiv.org/abs/2505.19291)|null|
 |**2025-05-24**|**Audio Jailbreak Attacks: Exposing Vulnerabilities in SpeechGPT in a White-Box Framework**|Binhao Ma et.al.|[2505.18864](http://arxiv.org/abs/2505.18864)|null|
@@ -505,6 +510,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Improved Representation Steering for Language Models**|Zhengxuan Wu et.al.|[2505.20809](http://arxiv.org/abs/2505.20809)|null|
+|**2025-05-22**|**Guiding Giants: Lightweight Controllers for Weighted Activation Steering in LLMs**|Amr Hegazy et.al.|[2505.20309](http://arxiv.org/abs/2505.20309)|null|
+|**2025-05-26**|**Lifelong Safety Alignment for Language Models**|Haoyu Wang et.al.|[2505.20259](http://arxiv.org/abs/2505.20259)|null|
 |**2025-05-26**|**Capability-Based Scaling Laws for LLM Red-Teaming**|Alexander Panfilov et.al.|[2505.20162](http://arxiv.org/abs/2505.20162)|null|
 |**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
 |**2025-05-26**|**What Really Matters in Many-Shot Attacks? An Empirical Study of Long-Context Vulnerabilities in LLMs**|Sangyeop Kim et.al.|[2505.19773](http://arxiv.org/abs/2505.19773)|null|
